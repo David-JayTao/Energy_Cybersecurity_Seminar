@@ -1,0 +1,152 @@
+IEC 62351 - Cyber Security Series for the Smart Grid - SyC Smart Energy
+Skip to content
+About us
+Scope
+SyC Smart Energy at a glance
+What a System Committee does?
+Organisation
+Working groups
+CAG (Chairman’s Advisory Group)
+WG 2 (Development Plan)
+JWG 3 (Smart Energy Roadmap)
+WG 5 (Methodology and Tools)
+WG 6 (Generic Smart Grid Requirements)
+AG 1 (Technical Committees Forum)
+Smart Energy
+Main standardization challenges
+Smart Energy Roadmap
+Cyber Security and Resilience Guidelines for the  Smart Energy Operational Environment
+Resilience of the  Smart Energy Domain
+Security by design
+IT vs. OT
+Risk Assessment
+Security Standards and Best Practices
+ISO/IEC 27000 series
+NIST CyberSecurity framework
+IEC 62443
+NISTIR 7628
+IEC 62351
+Other CS standards
+Publications
+IEC 62559 – use case methodology
+IEC TR 63097 – Smart grid roadmap
+IEC SRD 62913 – Smart Energy Use cases
+IEC SRD 63199 – Top priority standards development status
+IEC SRD 63200 – SGAM essentials
+IEC SRD 63268 – SMART GRID USERS INTERFACES (ENERGY AND DATA)
+Downloadable materials
+Detailed list
+Get involved
+IEC Work
+Contact us
+FAQ
+About us
+Scope
+SyC Smart Energy at a glance
+What a System Committee does?
+Organisation
+Working groups
+CAG (Chairman’s Advisory Group)
+WG 2 (Development Plan)
+JWG 3 (Smart Energy Roadmap)
+WG 5 (Methodology and Tools)
+WG 6 (Generic Smart Grid Requirements)
+AG 1 (Technical Committees Forum)
+Smart Energy
+Main standardization challenges
+Smart Energy Roadmap
+Cyber Security and Resilience Guidelines for the  Smart Energy Operational Environment
+Resilience of the  Smart Energy Domain
+Security by design
+IT vs. OT
+Risk Assessment
+Security Standards and Best Practices
+ISO/IEC 27000 series
+NIST CyberSecurity framework
+IEC 62443
+NISTIR 7628
+IEC 62351
+Other CS standards
+Publications
+IEC 62559 – use case methodology
+IEC TR 63097 – Smart grid roadmap
+IEC SRD 62913 – Smart Energy Use cases
+IEC SRD 63199 – Top priority standards development status
+IEC SRD 63200 – SGAM essentials
+IEC SRD 63268 – SMART GRID USERS INTERFACES (ENERGY AND DATA)
+Downloadable materials
+Detailed list
+Get involved
+IEC Work
+Contact us
+FAQ
+© 2019
+IEC 62351 – Cyber Security Series for the Smart Grid
+IEC 62351 Overview
+The IEC 62351 series of standards include cyber security technologies for some communication protocols specifically :
+IEC 60870-5 protocols (including IEEE 1815 (DNP3) as a derivative standard),
+IEC 60870-6 (ICCP)
+IEC 61850 protocols (including client-server, GOOSE, and sample values)
+IEC 61970 and IEC 61968 (Common Information Model – CIM)
+As shown in Figure below there is not a one-to-one correlation between the IEC TC57 communication protocol standards and the IEC 62351 security standards. This is because many of the communication protocols rely on the same underlying standards
+                at different layers.
+The IEC 62351 series also defines the cyber security requirements for implementing security technologies in the operational environment, including objects for network and system management (e.g. with SNMP), role-based access control (RBAC),
+                cryptographic key management, and security event logging.
+Technical specifications for conformance testing, applicable for these standards, are also being developed as part of this series as IEC/TS 62351-100-xx.
+IEC 62351 standards profile the use of existing Internet standards whenever possible to meet domain-specific needs. Reusing the same security standards across different communication protocols supports the interoperability of these protocols.
+IEC 62351 series of cyber security standards
+IEC 62351 Cyber Security Standards for Communication Standards
+The following parts of the IEC 62351 cyber security standards series provide security for different communication protocol standards :
+IEC/TS 62351-1: Introduction: This first part of the standard covers the background on security for power system operations, and introductory information on the series of IEC 62351 security standards.
+IEC/TS 62351-2: Glossary of Terms: This part includes the definition of terms and acronyms used in the IEC 62351 standards. These definitions are based on existing security and communications industry standard definitions as much as
+                    possible, given that security terms are widely used in other industries as well as in the power system industry. The terms in this glossary are provided for free access on the IEC web site
+IEC 62351-3: Data and Communication Security – Profiles Including TCP/IP. These security standards cover those profiles used by:
+IEC 60870-6 (TASE.2 / ICCP)
+IEC 60870-5 Part 104
+IEEE 1815 (DNP 3) over TCP/IP
+IEC 61850 over TCP/IP
+IEC 62351-4: Data and Communication Security – Profiles Including MMS and Similar Payloads. These security standards cover those profiles used by:
+IEC 60870-6 (TASE.2 / ICCP) using MMS
+IEC 61850-8-1 using the MMS profile of data objects
+IEC 61850-8-2 using XML XSDs mapped from MMS data objects
+IEC 62351-5: Data and Communication Security – Security for IEC 60870-5 and Derivatives (i.e. DNP 3.0). These security standards cover both serial and networked profiles used by:
+IEC 60870-5-7 (security details for IEC 60870-5-101 and 104)
+IEEE 1815 (DNP 3)
+IEC 62351-6: Data and Communication Security – Security for IEC 61850 Peer-to-Peer Profiles. These security standards cover profiles in:
+IEC 61850 that do not run over TCP/IP such as GOOSE and SV
+IEC 62351 Additional Cyber Security Standards and Technical Reports
+Additional IEC 62351 cyber security standards provide requirements while technical reports (TR) provide guidelines for implementing security technologies :
+IEC 62351-7
+Network and System Management (NSM) of the information infrastructure, which defines abstract NSM data objects for the power system operational environment and reflects what information is needed to manage the information infrastructure
+                              as reliably as the power system infrastructure is managed. A mapping to SNMP MIBs was also developed and is available as code components
+IEC 62351-8
+Role-Based Access Control for Power System Management. The purpose of this standard is to:
+Introduce “subjects-roles-rights” as authorization concept (in ANSI INCITS 359-2004, referred to as “users-roles-permissions”)
+Promote role-based access control for the entire pyramid in power system management
+Enable interoperability in the multi-vendor environment of the power industry
+Note :  IEC 61850-90-19 is developing the RBAC requirements for IEC 61850
+IEC 62351-9
+Key Management. This standard specifies how to generate, distribute, revoke, and handle digital certificates and cryptographic keys to protect digital data and its communication. Included in the scope is the handling of asymmetric keys (e.g.
+              private keys and X.509 certificates), as well as symmetric keys (e.g. session keys).
+IEC/TR 62351-10
+Security Architecture. This technical report targets the description of security architecture guidelines for power systems based on essential security controls, i.e., on security-related components and functions and their interaction.
+IEC 62351-11
+Security for XML Files. This standard defines the security requirements for exchanges of XML-based documents which are used for IEC 61970 as well as for some types of information exchanges in IEC 61850
+IEC/TR 62351-12
+Resilience for Power Systems with DER Systems. This technical report provides resiliency recommendations for engineering/operational strategies and cyber security techniques that are applied to Distributed Energy Resources
+                              (DER) systems. It covers the resilience requirements for the many different stakeholders of these dispersed cyber-physical generation and storage devices, with the goal of enhancing the safety, reliability, power quality,
+                              and other operational aspects of power systems, particularly those with high penetrations of DER systems
+IEC/TR 62351-13
+What Security Topics Should Be Covered in Standards and Specifications. This technical report provides guidelines whose purpose is to support the developers of standards with addressing cyber security at the appropriate level
+                              for their standard. This document provides suggestions on what security topics should be covered in standards and specifications that are to be used in the power industry, and was a major source of information for IEC Guide
+                              120, “Security Aspects – Guidelines for their Inclusion into Publications”.
+IEC 62351-14
+Cyber Security Event Logging. Based on Syslog, this part of the IEC 62351 series specifies technical details for the implementation of security logs: communication, content and semantics
+IEC 62351 Technical Specifications for Conformance Testing
+The IEC 62351 cyber security technical specifications for conformance testing are being developed and planned. They consist of the following:
+Part 100-1: Conformance Testing for Part 5
+Part 100-3: Conformance Testing for Part 3
+Part 100-4: Conformance Testing for Part 4
+Part 100-6-1: Conformance Testing for Part 6
+Back to CS guidelines
+Copyright © IEC 2026 - SyC Smart Energy - All rights reserved

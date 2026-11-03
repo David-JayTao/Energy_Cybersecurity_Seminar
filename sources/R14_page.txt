@@ -1,0 +1,474 @@
+Matrix - ICS | MITRE ATT&CK®
+Matrices
+Enterprise
+Mobile
+ICS
+Tactics
+Enterprise
+Mobile
+ICS
+Techniques
+Enterprise
+Mobile
+ICS
+Defenses
+Mitigations
+Enterprise
+Mobile
+ICS
+Assets
+Detections
+Detection Strategies
+Analytics
+Data Components
+CTI
+Groups
+Software
+Campaigns
+Resources
+Get Started
+Learn More about ATT&CK
+ATT&CK Advisory Council
+ATT&CKcon
+ATT&CK Data & Tools
+FAQ
+Engage with ATT&CK
+Version History
+Updates
+Legal & Branding
+Benefactors
+Contribute
+Blog
+Search
+ATT&CK v20 has been released! Check out the
+blog post
+for more information.
+ATT&CKcon 7.0
+is October 27-28, 2026 in McLean, VA.
+Home
+Matrices
+ICS
+ICS
+ICS Matrix
+Below are the tactics and techniques representing the MITRE ATT&CK
+®
+Matrix for ICS.
+          The Matrix contains information for the following platforms:
+Embedded
+,
+Windows
+,
+Linux
+,
+Network Devices
+.
+View on the ATT&CK
+®
+Navigator
+Version Permalink
+Live Version
+layout: side
+side
+flat
+show sub-techniques
+hide sub-techniques
+help
+Initial Access
+Execution
+Persistence
+Privilege Escalation
+Evasion
+Discovery
+Lateral Movement
+Collection
+Command and Control
+Inhibit Response Function
+Impair Process Control
+Impact
+12 techniques
+9 techniques
+5 techniques
+2 techniques
+7 techniques
+5 techniques
+6 techniques
+11 techniques
+3 techniques
+13 techniques
+4 techniques
+12 techniques
+Drive-by Compromise
+Exploit Public-Facing Application
+Exploitation of Remote Services
+External Remote Services
+Internet Accessible Device
+Remote Services
+Replication Through Removable Media
+Rogue Master
+Spearphishing Attachment
+Supply Chain Compromise
+Transient Cyber Asset
+Wireless Compromise
+Autorun Image
+Change Operating Mode
+Command and Scripting Interpreter
+(6)
+=
+PowerShell
+Windows Command Shell
+Unix Shell
+Visual Basic
+Python
+JavaScript
+Execution through API
+Graphical User Interface
+Hooking
+Modify Controller Tasking
+Native API
+User Execution
+Insecure Credentials
+(2)
+=
+Default Credentials
+Hardcoded Credentials
+Modify Firmware
+(2)
+=
+System Firmware
+Module Firmware
+Modify Program
+Project File Infection
+(1)
+=
+Siemens Project File Format
+Valid Accounts
+Exploitation for Privilege Escalation
+Hooking
+Change Operating Mode
+Exploitation for Evasion
+Indicator Removal on Host
+Masquerading
+Rootkit
+System Binary Proxy Execution
+Unauthorized Message
+(2)
+=
+Command Message
+Reporting Message
+Network Connection Enumeration
+Network Sniffing
+Remote System Discovery
+(3)
+=
+Port Scan
+Broadcast Discovery
+Multicast Discovery
+Remote System Information Discovery
+Wireless Sniffing
+Exploitation of Remote Services
+Insecure Credentials
+(2)
+=
+Default Credentials
+Hardcoded Credentials
+Lateral Tool Transfer
+Program Download
+(3)
+=
+Download All
+Online Edit
+Program Append
+Remote Services
+Valid Accounts
+Adversary-in-the-Middle
+Automated Collection
+Data from Information Repositories
+Data from Local System
+Detect Operating Mode
+I/O Image
+Monitor Process State
+Point & Tag Identification
+Program Upload
+Screen Capture
+Wireless Sniffing
+Commonly Used Port
+Connection Proxy
+Standard Application Layer Protocol
+(2)
+=
+DNS
+Publish/Subscribe Protocols
+Activate Firmware Update Mode
+Alarm Suppression
+Block Communications
+(3)
+=
+Serial COM
+Ethernet
+Wi-Fi
+Block Operational Technology Message
+(2)
+=
+Command Message
+Reporting Message
+Change Credential
+Data Destruction
+Denial of Service
+Device Restart/Shutdown
+Manipulate I/O Image
+Modify Alarm Settings
+Modify Firmware
+(2)
+=
+System Firmware
+Module Firmware
+Rootkit
+Service Stop
+Brute Force I/O
+Modify Firmware
+(2)
+=
+System Firmware
+Module Firmware
+Modify Parameter
+Unauthorized Message
+(2)
+=
+Command Message
+Reporting Message
+Damage to Property
+Denial of Control
+Denial of View
+Loss of Availability
+Loss of Control
+Loss of Productivity and Revenue
+Loss of Protection
+Loss of Safety
+Loss of View
+Manipulation of Control
+Manipulation of View
+Theft of Operational Information
+Initial Access
+Execution
+Persistence
+Privilege Escalation
+Evasion
+Discovery
+Lateral Movement
+Collection
+Command and Control
+Inhibit Response Function
+Impair Process Control
+Impact
+12 techniques
+9 techniques
+5 techniques
+2 techniques
+7 techniques
+5 techniques
+6 techniques
+11 techniques
+3 techniques
+13 techniques
+4 techniques
+12 techniques
+Drive-by Compromise
+Exploit Public-Facing Application
+Exploitation of Remote Services
+External Remote Services
+Internet Accessible Device
+Remote Services
+Replication Through Removable Media
+Rogue Master
+Spearphishing Attachment
+Supply Chain Compromise
+Transient Cyber Asset
+Wireless Compromise
+Autorun Image
+Change Operating Mode
+=
+Command and Scripting Interpreter
+(6)
+PowerShell
+Windows Command Shell
+Unix Shell
+Visual Basic
+Python
+JavaScript
+Execution through API
+Graphical User Interface
+Hooking
+Modify Controller Tasking
+Native API
+User Execution
+=
+Insecure Credentials
+(2)
+Default Credentials
+Hardcoded Credentials
+=
+Modify Firmware
+(2)
+System Firmware
+Module Firmware
+Modify Program
+=
+Project File Infection
+(1)
+Siemens Project File Format
+Valid Accounts
+Exploitation for Privilege Escalation
+Hooking
+Change Operating Mode
+Exploitation for Evasion
+Indicator Removal on Host
+Masquerading
+Rootkit
+System Binary Proxy Execution
+=
+Unauthorized Message
+(2)
+Command Message
+Reporting Message
+Network Connection Enumeration
+Network Sniffing
+=
+Remote System Discovery
+(3)
+Port Scan
+Broadcast Discovery
+Multicast Discovery
+Remote System Information Discovery
+Wireless Sniffing
+Exploitation of Remote Services
+=
+Insecure Credentials
+(2)
+Default Credentials
+Hardcoded Credentials
+Lateral Tool Transfer
+=
+Program Download
+(3)
+Download All
+Online Edit
+Program Append
+Remote Services
+Valid Accounts
+Adversary-in-the-Middle
+Automated Collection
+Data from Information Repositories
+Data from Local System
+Detect Operating Mode
+I/O Image
+Monitor Process State
+Point & Tag Identification
+Program Upload
+Screen Capture
+Wireless Sniffing
+Commonly Used Port
+Connection Proxy
+=
+Standard Application Layer Protocol
+(2)
+DNS
+Publish/Subscribe Protocols
+Activate Firmware Update Mode
+Alarm Suppression
+=
+Block Communications
+(3)
+Serial COM
+Ethernet
+Wi-Fi
+=
+Block Operational Technology Message
+(2)
+Command Message
+Reporting Message
+Change Credential
+Data Destruction
+Denial of Service
+Device Restart/Shutdown
+Manipulate I/O Image
+Modify Alarm Settings
+=
+Modify Firmware
+(2)
+System Firmware
+Module Firmware
+Rootkit
+Service Stop
+Brute Force I/O
+=
+Modify Firmware
+(2)
+System Firmware
+Module Firmware
+Modify Parameter
+=
+Unauthorized Message
+(2)
+Command Message
+Reporting Message
+Damage to Property
+Denial of Control
+Denial of View
+Loss of Availability
+Loss of Control
+Loss of Productivity and Revenue
+Loss of Protection
+Loss of Safety
+Loss of View
+Manipulation of Control
+Manipulation of View
+Theft of Operational Information
+×
+Core Objects:
+All
+Core ATT&CK Objects
+All
+None
+Matrices
+Tactics
+Techniques
+Sub-Techniques
+Defenses:
+All
+Defenses
+All
+None
+Mitigations
+Assets
+Detection Strategies
+Analytics
+Data Components
+CTI:
+All
+CTI
+All
+None
+Groups
+Software
+Campaigns
+Reference:
+All
+Reference
+All
+None
+Resources
+Domains:
+All
+Domains
+All
+None
+Enterprise
+Mobile
+ICS
+Reset filters
+Contact Us
+Terms of Use
+Privacy Policy
+Website Changelog
+Cookie Preferences
+© 2015 - 2026, The MITRE Corporation. MITRE ATT&CK and ATT&CK are registered trademarks of The MITRE Corporation.

@@ -1,0 +1,196 @@
+DOE Cybersecurity Report Provides Recommendations to Secure Distributed Clean Energy on the Nation’s Electricity Grid | Department of Energy
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Policy & Priorities
+Main Menu
+Policy & Priorities
+View all Policy & Priorities
+Increase American Energy Production
+Expanding domestic energy resources to support national needs and economic growth.
+Energy Innovation
+Driving research and development to shape the future of energy systems and technologies.
+Energy Exports
+Supporting global energy markets through U.S. energy production and trade.
+Affordable Energy for Consumers
+Promoting access to reliable and cost-effective energy for households and businesses.
+Strategic Petroleum Reserve (SPR)
+Managing emergency fuel reserves to support national energy security.
+Nuclear Security
+Maintaining the safety, security, and effectiveness of the nation’s nuclear deterrent.
+Nuclear Energy
+Advancing nuclear technologies to support energy, security, and innovation goals.
+Energy Reliability
+Ensuring consistent and dependable energy delivery across the nation.
+Energy Infrastructure
+Strengthening and modernizing the systems that produce, deliver, and store energy.
+Leadership & Organization
+Main Menu
+Leadership & Organization
+View all Leadership & Organization
+Chris Wright
+Secretary of Energy
+James Danly
+Deputy Secretary of Energy
+Leadership & Organization Pages
+Staff Offices
+Supporting DOE operations through policy, administration, and mission services.
+Science and Innovation Program Offices
+Leading scientific research and technology development across priority areas.
+Independent Offices
+Providing oversight and specialized functions across key areas of the Department.
+Energy Program Offices
+Managing programs that support energy production, efficiency, and delivery.
+National Laboratories
+Advancing research and innovation through DOE’s National Laboratory System.
+Nuclear Security Offices
+Overseeing national security efforts related to nuclear safety and defense.
+Featured
+Hydrocarbons and Geothermal Energy Office
+Topics
+Main Menu
+Topics
+View all Topics
+Energy Sources
+Learn about the resources and technologies used to produce power across the United States.
+Energy Usage
+Explore how energy is consumed in homes, businesses, transportation, and industry.
+Policy
+Understand the laws, regulations, and strategies that guide energy decisions and national priorities.
+Science & Innovation
+See how research, discovery, and new technologies are shaping the future of energy.
+Economy
+Discover how energy affects jobs, markets, investment, and economic growth.
+National Security & Safety
+Learn how energy systems support resilience, infrastructure protection, and public safety.
+News & Events
+Main Menu
+News & Events
+View all News & Events
+Press Releases
+October 30, 2026
+Energy Department Announces Over $230 Million Funding Opportunity to Strengthen America's Grid Supply Chain and Lower Electricity Costs
+Funding will boost domestic manufacturing, reduce reliance on foreign suppliers, and…
+Read more
+Electric Grids
+View all Press Releases
+Fact Sheets
+FACT SHEET: Project Uprise Is Delivering On President Trump's Agenda To Unleash American Nuclear Power
+Nuclear
+FACT SHEET: Delivering on President Trump's Promise to Unleash Prosperity and Security for the United States and Venezuela
+FACT SHEET: The Energy Department is Ushering in a Golden Age of American Science
+Super Intelligence
+View all Fact Sheets
+Upcoming Events
+Nov 4
+4:00PM EST - 5:00PM EST
+ORSSAB Executive Committee Meeting - November 4, 2026 (Virtual)
+Nov 5
+10:00AM EST - 12:45PM EST
+Utility Open House for Federal Customers Featuring Philadelphia Gas Works
+Nov 10
+12:45PM EST - 3:30PM EST
+Chairs Meeting - November 2026
+View all Events
+About
+Main Menu
+About
+Mission
+Supporting USA energy, science, and security priorities.
+History & Achievements
+Nobel Prize Laureates
+Contact Us
+Access general information and ways to connect with the Department of Energy.
+Careers
+Internships & Fellowships
+Apprenticeships & Workforce Development
+Work at DOE
+Funding Opportunities
+Breadcrumb
+Home
+Topics
+Cybersecurity
+DOE Cybersecurity Report Provides Recommendations to Secure Distributed Clean Energy on the Nation’s Electricity Grid
+DOE Cybersecurity Report Provides Recommendations to Secure Distributed Clean Energy on the Nation’s Electricity Grid
+CESER and EERE published Cybersecurity Considerations for Distributed Energy Resources on the U.S. Electric Grid.
+Office of Cybersecurity, Energy Security, and Emergency Response
+October 6, 2022
+Estimated Read Time
+min
+WASHINGTON, D.C. – The U.S. Department of Energy (DOE) today released a long-term evaluation of the cybersecurity considerations associated with distributed energy resources (DER), such as distributed solar, storage, and other clean energy technologies, and the potential risks to the electric grid over the next ten years. The study finds that while a cyberattack on today’s DER systems would have a negligible impact on grid reliability depending on grid conditions and regional DER installation and integration, the projected growth and evolution in DER deployment could pose cybersecurity challenges for future electric power grid operations if cybersecurity is not taken into consideration. The report presents strategies that DER operators and electric power entities could undertake to make the grid more secure, as well as policy recommendations for decisionmakers.
+“We have a strategic opportunity like we’ve never had before,” said Puesh Kumar, Director of DOE’s Office of Cybersecurity, Energy Security, and Emergency Response (CESER). “We can address both climate risks by deploying clean energy solutions and integrate cybersecurity into those systems from the ground-up. This is good for U.S. energy security and U.S. national security. This report is meant to start these critical conversations between the clean energy and cybersecurity communities, particularly as we begin to make historic investments in the U.S. electric grid through the Infrastructure Investment and Jobs Act (IIJA).”
+“To scale up clean energy deployment, we must ensure that our electricity systems are secure and resilient to disruption,” said Alejandro Moreno, Acting Assistant Secretary for Energy Efficiency and Renewable Energy. “This crucial report lays out key cybersecurity challenges associated with wide-scale distributed energy deployment so clean energy industries and other stakeholders can work to reduce risks and protect American families.”
+DOE has maintained the importance of ensuring power grid cybersecurity while achieving critical decarbonization goals essential to addressing climate change. DOE’s goal is to ensure that cybersecurity is fully engineered from ideation to deployment in relevant clean energy research, development, and deployment efforts. This “cyber by design” strategy leverages opportunities early in the design lifecycle to proactively reduce cyber risk rather than attempt expensive aftermarket bolt-on efforts.
+Large energy resources, like a utility-scale wind or solar plant, are connected to the transmission grid, while DER are smaller in scale and are connected to the distribution grid where residences and businesses are also connected. There are about 90 gigawatts (GW) of DER installed today, half of which are rooftop solar systems – accounting for over 3 million systems. DER deployment is expected to quadruple by 2025 to approximately 380 GW. Each of those systems uses software and networks to integrate with electric power operations, and those systems could be hacked. Depending on systems conditions, a fleet of DER aggregated to significant size could pose a reliability challenge if under the control of an advanced, capable attacker, and if cybersecurity considerations and threat mitigation strategies are ignored.
+The Cybersecurity Considerations for Distributed Energy Resources on the U.S. Electric Grid report, developed by the Office of Cybersecurity, Energy Security, and Emergency Response (CESER) and the Office of Energy Efficiency and Renewable Energy (EERE), provides recommendations for the DER industry, energy sector, and government to take action and secure current and future systems. The report also acknowledges the ongoing need to engage with DER industry stakeholders to develop cybersecurity standards and best practices, provide education and training, and establish information sharing mechanisms. Broad industry involvement is key to developing robust DER cybersecurity standards. As outlined in the report, DOE also intends to fund research on next-generation DER defenses, including security-by-design and the recently released
+Cyber-Informed Engineering strategy
+, to ensure security in a decarbonized grid.
+Deployment of wind, solar, and energy storage will help to achieve the nation’s clean energy goals, diversify the electricity supply, and make the grid more resilient to outages, making investment in security for DER essential to safeguarding the nation’s energy infrastructure.
+The study’s key recommendations include:
+•    Adopt best practices and meet minimum security requirements. DER providers can utilize multifactor authentication encryption, and other tools to secure their devices. Many cybersecurity standards exist and can be used to develop security technologies and measures appropriate for their use.
+•    Implement good governance. Design security into utility and DER systems from the beginning and make security a priority for all employees, suppliers, and customers.
+•    Incentivize cyber resilience. Go beyond the standards and work to actively detect threats and adopt a zero-trust approach to verify commands and data.
+Investment in clean energy technology needed to address climate change presents a massive opportunity to both innovate and secure our national grid simultaneously. Not only can we build new technologies that will produce power cleaner and cheaper, we can also have physical and cyber security built into the design from the start. DOE’s work on cyber-informed Engineering and the Clean Energy Cyber Accelerator are meant to seize that opportunity and address considerations mentioned in this report.
+To learn more about DOE’s recommendations, read the full report below.
+Cybersecurity Considerations for Distributed Energy Resources on the U.S. Electric Grid
+(1.16 MB)
+V
+iew the presentation slides and video recording of the November 2022 DOE DER Report Briefing
+.
+View Next
+Press Release
+Celebrating Science Every Day
+October 6, 2022
+View Previous
+Press Release
+Department of Energy Announces $6.4 Million for Artificial Intelligence Research in High Energy Physics
+October 6, 2022
+Explore more on these topics:
+Cybersecurity
+Energy Security
+Committed to Restoring America’s Energy Dominance.
+Follow Us
+Link to Facebook
+Link to Instagram
+Link to Linkedin
+Link to Youtube
+Link to X
+Link to Flickr
+Quick Links
+Leadership & Offices
+Newsroom
+Contact Us
+Careers
+Resources
+Budget & Performance
+Directives, Delegations, & Requirements
+Freedom of Information Act (FOIA)
+Inspector General
+Privacy Program
+Federal Government
+USA.gov
+The White House
+Open Gov
+Accessibility
+Privacy
+Information Quality
+No Fear Act
+Web Policies
+Vulnerability Disclosure Program
+Whistleblower Protection
+Equal Employment Opportunity
+Notice of Court Orders

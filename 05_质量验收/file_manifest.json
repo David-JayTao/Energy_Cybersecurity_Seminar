@@ -1,0 +1,967 @@
+[
+  {
+    "file": "00_项目总览与分工.md",
+    "bytes": 3665,
+    "sha256": "635ec27f9c8ce9390cbf378071ad7ab3b3c92bebde1a88eb7a5c688b3a1a7a89"
+  },
+  {
+    "file": "01_老师讨论提纲.md",
+    "bytes": 3278,
+    "sha256": "4a6362117e869d0b1ffea573ef86a8a6b5a5828ce89cae3ac007c0246ff01194"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3712,
+    "sha256": "3f4e84232322f028f84d7f6a16993d056ff4f607d154805c6d52e0c417cf2755"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/PPT逐页完整内容.md",
+    "bytes": 53529,
+    "sha256": "d196036e21b1894ab9b6d2dd4cb453029052a74ba1dba95c0ad771b7bd2b238a"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/制作交接与排练卡.md",
+    "bytes": 1270,
+    "sha256": "01627f619b6414bd56f83b3e1ffbf37823a14b6f038d7f8bf57293f9959f40ce"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/各页讲解时间表.md",
+    "bytes": 995,
+    "sha256": "42b9ed85fbb13bda89554a57fd05dbe827762b3c2af5206e63006ced7bab975a"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/基础知识与讲解准备.md",
+    "bytes": 3054,
+    "sha256": "94e1fe7171b5addc0d3bc5a3494e7fb3a61044da53d4b0e0fd398cbd12ec335c"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/完整演讲逐字稿.md",
+    "bytes": 13100,
+    "sha256": "0ebb517597db57df50296c96570fbbe212d7545ddfccfac084abff7a03b7c948"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/本部分参考文献.md",
+    "bytes": 5077,
+    "sha256": "326ce29e4b30b7efad7de28c51b9e4c013b1e7b368b9d4b043348fe3472c4db1"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/PPT逐页完整内容.md",
+    "bytes": 58180,
+    "sha256": "ea343b0f709f53a1c4d33f99214fff74571c16fb10b2d0baddd02c0b2ef78dc4"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/典型案例研究.md",
+    "bytes": 4846,
+    "sha256": "b39b0b03501f9683fe2e89aeccc5219cf9d1cf3b85b0cff4617cf7d8929ae181"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/制作交接与排练卡.md",
+    "bytes": 1270,
+    "sha256": "4cf46d8dc1b2c7bc10fb221d9239095a5dc11e364be036651cf608facb47470d"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/各页讲解时间表.md",
+    "bytes": 929,
+    "sha256": "982f632c5556ae7df18bf5322bfe2131e7dc7eb3e665f8b6ba7c531e8990da5a"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/完整演讲逐字稿.md",
+    "bytes": 13203,
+    "sha256": "2c425567e58c29a3aa0e5e2cd2c7ae296ebed2c8f3ff30cdce2f2dc8b02e0704"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/本部分参考文献.md",
+    "bytes": 5473,
+    "sha256": "cc604771def64fbf342e90987b7694499b282142802f9b7280cda8a6d4e3c77e"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/PPT逐页完整内容.md",
+    "bytes": 64219,
+    "sha256": "29b22be4d46e634feeb1166a3c7b6d86d16994d0d986b0b5964e2562e4ad8eca"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/制作交接与排练卡.md",
+    "bytes": 1260,
+    "sha256": "e49bad819e040ccba8707e2195094e0e80a90b34577d4943a1d4576e67fc4355"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/各页讲解时间表.md",
+    "bytes": 1036,
+    "sha256": "d5b16f425f80db4580a909b76b4489a8e591955ffd20701547114f813c8b82a6"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/完整演讲逐字稿.md",
+    "bytes": 13327,
+    "sha256": "3d48b32fdac0e4779914ac8a320ef4fb4ab127c44526ce7d040dc3c4b663cfd4"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/技术原理与比较.md",
+    "bytes": 7147,
+    "sha256": "c44b5c0178380b943a8b6da0f7cb5f200a70007cc636f5183fdf1f9a04b8f55b"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/本部分参考文献.md",
+    "bytes": 9414,
+    "sha256": "7f626c0633e760f598d4db8b440398c54e10dd0558c2e12bca4edaad8b462f29"
+  },
+  {
+    "file": "04_全组资料/三人讲解时间表.md",
+    "bytes": 768,
+    "sha256": "2efe084973e205ea6b42229e1902ccabaf67706f55f8cf28570783271c0a4ef4"
+  },
+  {
+    "file": "04_全组资料/全组PPT页面目录.md",
+    "bytes": 3240,
+    "sha256": "f6b27ea127714acefed2eb18f95155da44eba9366ec23a7bd96a33c99ab350a9"
+  },
+  {
+    "file": "04_全组资料/关键事实证据表.md",
+    "bytes": 4252,
+    "sha256": "3d42caab14cc418c877a0bb88a980c4c2669d34f479c1be7d62448c294138478"
+  },
+  {
+    "file": "04_全组资料/术语表与概念解释.md",
+    "bytes": 4609,
+    "sha256": "58ac9532c4514506676c15359fff10edcbcf0670a94dbb370a17ad0782f40228"
+  },
+  {
+    "file": "04_全组资料/核心文献与链接.md",
+    "bytes": 13310,
+    "sha256": "fc4c79fbbcc9ac9b31dc92930861c7e8c49a3da7136a1691d2e6348c197f5689"
+  },
+  {
+    "file": "04_全组资料/课程报告正文.md",
+    "bytes": 24483,
+    "sha256": "e0922aa66d34df92ec0ba571b87b45f94a33fc5f5cfffa6e4e7274c13c1ac934"
+  },
+  {
+    "file": "04_全组资料/高质量答辩问题与答案.md",
+    "bytes": 49337,
+    "sha256": "16af4374ecea21776e2d3de195712ad0b9278d3f133e11b5429f337a3d48226f"
+  },
+  {
+    "file": "05_质量验收/mermaid.min.js",
+    "bytes": 3338725,
+    "sha256": "616a109f19cd186842e11d45b35ac07456b3a75513310f6ea075351aa430b1e2"
+  },
+  {
+    "file": "05_质量验收/mermaid_check.html",
+    "bytes": 11156,
+    "sha256": "739db8cf57b53247ee9300b2236ed54c612744ce9551c5e07fdc6a055a456eae"
+  },
+  {
+    "file": "05_质量验收/mermaid_check_output.html",
+    "bytes": 14620,
+    "sha256": "2ae24a302e37cf01471413486f7a5dc1c007147f4c00911a712ab7bde78e8487"
+  },
+  {
+    "file": "05_质量验收/mermaid_validation.json",
+    "bytes": 4153,
+    "sha256": "105391d09a5edc4a4c78e027d740a269ca9179536ff69caac0859a2fbb3f792c"
+  },
+  {
+    "file": "05_质量验收/render_log.json",
+    "bytes": 6505,
+    "sha256": "af6da418f3dfb7647aeab25ff89f541ca5c0136303e3792af011c42507239425"
+  },
+  {
+    "file": "05_质量验收/事实与文献核查.md",
+    "bytes": 4186,
+    "sha256": "664a1015d16f55fb52756546ed75b3513444fd1e65b83c992ba28d99e25d5b20"
+  },
+  {
+    "file": "05_质量验收/内容完整性检查.md",
+    "bytes": 3049,
+    "sha256": "79deda63d0c2e36653a95347019d40efe7a4e4860ec416fa2f54fc2fa86db0e6"
+  },
+  {
+    "file": "05_质量验收/图表联系表_1.jpg",
+    "bytes": 263233,
+    "sha256": "2b69fc86e1ca9d32769a314453b796d474ccaf315cc05a5612ecacac60fc9b75"
+  },
+  {
+    "file": "05_质量验收/图表联系表_2.jpg",
+    "bytes": 271646,
+    "sha256": "54325277414851109b99ec9ea3636cd02170f0a42ca5bb41d15c18e150ce8145"
+  },
+  {
+    "file": "05_质量验收/图表联系表_3.jpg",
+    "bytes": 288516,
+    "sha256": "aea01aa8dba1018afbc60815f350639fd13c429140e0a9babc49bf4c28ca035c"
+  },
+  {
+    "file": "05_质量验收/图表联系表_4.jpg",
+    "bytes": 71160,
+    "sha256": "03dd001cebc3dfabbad6ef183c184af67629d8569ba92959dc550fbe779aaabb"
+  },
+  {
+    "file": "05_质量验收/最终交付清单.md",
+    "bytes": 2019,
+    "sha256": "3a60449aff2472f3f182a5dc6e023246007170bd0a11c168ee8522a79265c312"
+  },
+  {
+    "file": "05_质量验收/统计结果.json",
+    "bytes": 617,
+    "sha256": "cdb9f759aa0727df566797c4584a73d1ba611501d4883b06c90259605fc93743"
+  },
+  {
+    "file": "05_质量验收/自动检查结果.json",
+    "bytes": 10668,
+    "sha256": "483452a5ea3d1eaba6f62f5746521f76fc23c7789c784637bef1dbfd27242bc4"
+  },
+  {
+    "file": "sources/audit.py",
+    "bytes": 3799,
+    "sha256": "cb1c84ef2eba5a43029eabef00bcbbbc4c29946493de02356cbe3d71b37179cf"
+  },
+  {
+    "file": "sources/build_materials.py",
+    "bytes": 90226,
+    "sha256": "01ef2d14afe4e231f486fd2f73fc3050d5eba0826a6e49d2038889d46ebede7f"
+  },
+  {
+    "file": "sources/China_Order27.pdf",
+    "bytes": 251647,
+    "sha256": "8db19489ae16423b11ddc86c6a6db00cbeeb303e96d00bc1b81871d8eaca741f"
+  },
+  {
+    "file": "sources/China_Order27.pdf.txt",
+    "bytes": 15789,
+    "sha256": "239f4ef442c9b0dea0bd3014b69050d41a78a67745820afc60de7e027ec3ce28"
+  },
+  {
+    "file": "sources/Colonial_hearing2021.html",
+    "bytes": 206783,
+    "sha256": "3fdaf7ac890f56209944ac9017c5370d4756e833d9bc008b2e47cc1aa4a98f23"
+  },
+  {
+    "file": "sources/course_slide16.jpeg",
+    "bytes": 1630466,
+    "sha256": "486704ec414434fbb0ec02d3efb0e1ba5b02b837a96c263b24273fcfa973b713"
+  },
+  {
+    "file": "sources/CRS_Ukraine.pdf",
+    "bytes": 973373,
+    "sha256": "2015cef8c4f18fd3d2b5944def1e415bd30c08be01b2d17cc17e333ebc3a0266"
+  },
+  {
+    "file": "sources/CRS_Ukraine.pdf.txt",
+    "bytes": 128797,
+    "sha256": "d5fdc56457b6ee5a6354aa4abfd838844ec05f085bcb4cf9deb4d54c3b78ec6e"
+  },
+  {
+    "file": "sources/download_log.json",
+    "bytes": 1589,
+    "sha256": "bc2dee948c511396d1e284f6cfe7ca53c5ca446e403458ece67ce017e1db443b"
+  },
+  {
+    "file": "sources/Inoue2017.pdf",
+    "bytes": 1200217,
+    "sha256": "eab8ce83c0e3294d196d8e559f68ca6d06f2a0890c35aa7726c110e9ec3ef009"
+  },
+  {
+    "file": "sources/Inoue2017.pdf.txt",
+    "bytes": 42470,
+    "sha256": "98fd965441224b3da6e350ea19032c2747361be437a4e68cb57b74cc78c0c7d0"
+  },
+  {
+    "file": "sources/Li2024.pdf",
+    "bytes": 352694,
+    "sha256": "648c38dbd3c47fe3795ce9d27e217fd5a52a0cd8a59f3d552591167eae1640cc"
+  },
+  {
+    "file": "sources/Li2024.pdf.txt",
+    "bytes": 28159,
+    "sha256": "5773b1241940604b2661c6f41e30aa61cd788781144149ab31b26ed2ff961484"
+  },
+  {
+    "file": "sources/NIST_SP800_82r3.pdf",
+    "bytes": 8584345,
+    "sha256": "608f554514d381853e24e0b33123b7080fbd757826f460032690aade63394616"
+  },
+  {
+    "file": "sources/NIST_SP800_82r3.pdf.txt",
+    "bytes": 770366,
+    "sha256": "9176153b0fa1c1210cff1a9bbd3b236bdf29e3a1c0a9b0e40b1f61ce143a531e"
+  },
+  {
+    "file": "sources/page_data.json",
+    "bytes": 65197,
+    "sha256": "b7eff7e233b2e4da9b8a7f65094e57b835f7f9f00b64d59bb4b4a0d6ebbe48e3"
+  },
+  {
+    "file": "sources/R01_source.pdf",
+    "bytes": 8584345,
+    "sha256": "608f554514d381853e24e0b33123b7080fbd757826f460032690aade63394616"
+  },
+  {
+    "file": "sources/R02_page.txt",
+    "bytes": 7103,
+    "sha256": "5f368f14bb25a5c66153e976bcc4ec9f617e1f185920588d1111e43780958635"
+  },
+  {
+    "file": "sources/R03_source.pdf",
+    "bytes": 1016061,
+    "sha256": "9c3a8fbc28d2b7869677347d49ff5b61b7922321d72e19bffaf210863cf57d05"
+  },
+  {
+    "file": "sources/R04_source.pdf",
+    "bytes": 973373,
+    "sha256": "2015cef8c4f18fd3d2b5944def1e415bd30c08be01b2d17cc17e333ebc3a0266"
+  },
+  {
+    "file": "sources/R05_page.txt",
+    "bytes": 8933,
+    "sha256": "1ada4b9dcfb80c3f8875cd84bc32c3f683e4af5f58d879b203c651f026fe02f3"
+  },
+  {
+    "file": "sources/R06_page.txt",
+    "bytes": 7308,
+    "sha256": "5395428e2f098e4be8177f780c3e812db56b0de0ea5f445cfec8b01561d91852"
+  },
+  {
+    "file": "sources/R07_page.txt",
+    "bytes": 210261,
+    "sha256": "bba9677ddf69152903b0e513a392a5d38c9e93474c9f928124774c1bac980e9b"
+  },
+  {
+    "file": "sources/R08_page.txt",
+    "bytes": 8520,
+    "sha256": "7a1acd2e547afee281611540e4f11fb4a1725c4175bc15714cc25c66b982d581"
+  },
+  {
+    "file": "sources/R10_page.txt",
+    "bytes": 12215,
+    "sha256": "4bca9289b77b1cd1c55da52d8d2a52364f55d114cba3a8ba685a58e54fc272f8"
+  },
+  {
+    "file": "sources/R11_page.txt",
+    "bytes": 11959,
+    "sha256": "3220a1ac5635ec0af4c43bd8d6443118635cfeb630c145b23502e9ebb1cee06f"
+  },
+  {
+    "file": "sources/R12_page.txt",
+    "bytes": 4299,
+    "sha256": "e1d2dd70f72c74b8c6df233caa290ae88ba9002376e9d970f7aa3fdedbc33bdc"
+  },
+  {
+    "file": "sources/R13_page.txt",
+    "bytes": 9407,
+    "sha256": "5c28c9d7570d180a24c2e9a4f9dfef91bb7e1b489a0a0a7139acf37abed6ba06"
+  },
+  {
+    "file": "sources/R14_page.txt",
+    "bytes": 7680,
+    "sha256": "15fc4f5925d59a3142effd7b1cc4578a91e46eedb1a72daa21a3239fe295d21b"
+  },
+  {
+    "file": "sources/R15_page.txt",
+    "bytes": 903,
+    "sha256": "d57057115959667757c3611098a95dcf7e8310e41c0b29ae52aee68215a9c76c"
+  },
+  {
+    "file": "sources/R16_page.txt",
+    "bytes": 1406,
+    "sha256": "b6968eb0402bc6725fcd8b82fa2da285dc969231d3507ac38bcaaabd52f269c7"
+  },
+  {
+    "file": "sources/R17_page.txt",
+    "bytes": 18474,
+    "sha256": "ab60b3422f7fb83b920191579e7130e997c6bc39dd84b0f86334c38c75e3b88b"
+  },
+  {
+    "file": "sources/R18_source.pdf",
+    "bytes": 1200217,
+    "sha256": "eab8ce83c0e3294d196d8e559f68ca6d06f2a0890c35aa7726c110e9ec3ef009"
+  },
+  {
+    "file": "sources/R19_page.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "sources/R21_source.pdf",
+    "bytes": 1174643,
+    "sha256": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a"
+  },
+  {
+    "file": "sources/R24_page.txt",
+    "bytes": 5980,
+    "sha256": "79ec6a94f6ea588bb01ab13a8b6f1a2debfa91f79127bbeb724f896f55d84baf"
+  },
+  {
+    "file": "sources/references.json",
+    "bytes": 12243,
+    "sha256": "1da8521f436423b80064fd01b65185ce98ffb2317d04403629f0d8473e2625b0"
+  },
+  {
+    "file": "sources/render_figures.py",
+    "bytes": 1621,
+    "sha256": "01d180a0201220f9a829f67da50cc76ea90d5c95d3cdfeb291ce0ba01d0672ea"
+  },
+  {
+    "file": "sources/SANS_Ukraine2015.pdf",
+    "bytes": 1805384,
+    "sha256": "945b431a136dfb2209942f28de02f277af7b0c9b6e8de4c5e4e23d3c88119ca5"
+  },
+  {
+    "file": "sources/SANS_Ukraine2015.pdf.txt",
+    "bytes": 70791,
+    "sha256": "1b04b67861c24e72aec818dfa0f64e57354423a78ba8f0edc250ba7e7b9c5651"
+  },
+  {
+    "file": "sources/supplements.py",
+    "bytes": 4888,
+    "sha256": "ea47bb9ef4ab8fd167a1890f27046e443f0a54f83d3f99351db319c76947a932"
+  },
+  {
+    "file": "sources/url_check.json",
+    "bytes": 7823,
+    "sha256": "d4e2e63cc0e7f19be8af2d1eda85cd1ca0e3a33cd9b1d3df3891d4ecd94003b2"
+  },
+  {
+    "file": "sources/verify_sources.py",
+    "bytes": 1975,
+    "sha256": "7dd90fa61c56a404a7f6c2897b60ec4cd98c7c7155ca03889b2cfff7d7658801"
+  },
+  {
+    "file": "sources/课程Excel全文提取.txt",
+    "bytes": 2734,
+    "sha256": "ad81f06357820083e30c38da9be914e3997830240bbf2b997c4ce3d5b923a894"
+  },
+  {
+    "file": "sources/课程PPT全文提取.txt",
+    "bytes": 12692,
+    "sha256": "425c44dd52427ab29c6ad5fd6f490f558676a9b8650ae175768c66f34d49154f"
+  },
+  {
+    "file": "sources/资料使用与核验说明.md",
+    "bytes": 2223,
+    "sha256": "3e83deefc68df9434ef17d2785389e30466a9be3bf7c0e77c4196ed324c647f3"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P21.mmd",
+    "bytes": 127,
+    "sha256": "c1043c331e5db1eb16564301c575c11340e06dffc17b9cfd748d2217d9f43a53"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P21.png",
+    "bytes": 65926,
+    "sha256": "fd1ae78de858a4a858e858d6cad252049061749585179f6124e9b58a9bca7fc8"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P21.svg",
+    "bytes": 2308,
+    "sha256": "da58394731f8506f684e114fb497f5b9ce98c73add9128765d09ea6a397e4eb2"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P22.mmd",
+    "bytes": 197,
+    "sha256": "6b7b43a2db5c3b31c3a644578468dc5ce81c6bfce6f1e85aeb4e82812830ef9b"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P22.png",
+    "bytes": 68645,
+    "sha256": "ddef4141259a33f535941a575553131d33d8de6307c0c178bb74b6e1ca785600"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P22.svg",
+    "bytes": 3083,
+    "sha256": "b04b40caa7cfe5ccc91a1cfee837b1ec8ad38bcacc31500f980847f510ab29ac"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P23.mmd",
+    "bytes": 216,
+    "sha256": "30b7d0d6c34bd3d5a13bd8305cdd86e9cc83f07bcf438c2c32cf81218605bfc7"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P23.png",
+    "bytes": 82567,
+    "sha256": "c85aabfcf836d0ada256a1fe31ae74a424edd1176497de6b366f0b10ecd52f36"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P23.svg",
+    "bytes": 2257,
+    "sha256": "a43bf9253f178f968ad57b5507ebd0a1a5387ea229c30847f8d17e17f3af5718"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P24.mmd",
+    "bytes": 215,
+    "sha256": "4b7258f0ab07e048010373dc1aef95c374a1018c2c83de3120a823cfd87100fc"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P24.png",
+    "bytes": 70879,
+    "sha256": "83f77aeb8cd7b7d720b134ab9ec5ce9730baca5ce736b84fde0052dfc5802768"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P24.svg",
+    "bytes": 3113,
+    "sha256": "546ef2cac6c5ddb7acb63e83a300753fbbd1ac4639eea362fe3641fb489386c1"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P25.mmd",
+    "bytes": 132,
+    "sha256": "972c9627865e9832b032c15d50b819fed155daa7532a025f0f563f14e4d47185"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P25.png",
+    "bytes": 102642,
+    "sha256": "4e69b4f50709e5bdf7cade324def0b0300502fc8938f601c41c9d3f4e639288a"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P25.svg",
+    "bytes": 4235,
+    "sha256": "44f0cb9d965567efe96ac619011e33648fd953fb5981c0855bc81cb9ab52023b"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P25_表格.csv",
+    "bytes": 516,
+    "sha256": "bddeb0921541d0be6dfa6d1af4f1b61e5523ce48404dc82d4a297fd2c134b7a1"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P26.mmd",
+    "bytes": 243,
+    "sha256": "15facf478aad9605c42da9da852d4bf23dde8e1ff2b73585c529b8910eea2a6c"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P26.png",
+    "bytes": 88743,
+    "sha256": "f6573d4c3b0b2ccfd021e4e1ab35af17d9f0422dea0ce578052296c67f1e5c24"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P26.svg",
+    "bytes": 2297,
+    "sha256": "ef8c8e667f61044b870cd74d92ebb98a8aa4404b35e3fb7fc5fe23bcbdd2d9c3"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P27.mmd",
+    "bytes": 138,
+    "sha256": "8868e8f9fe2711f2c58092ee21a5f44596d881cd1c37a206e230d72071cf8ea5"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P27.png",
+    "bytes": 95478,
+    "sha256": "b7bd959f21d1b51a7780c7ce3b069270eebda8781bcbb7c650e234b4f93d9e1c"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P27.svg",
+    "bytes": 3763,
+    "sha256": "3364f970d343972cde0d0508326bc8cef2661f0c2badc60c977920f3d7d1a771"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P27_表格.csv",
+    "bytes": 158,
+    "sha256": "de0e3f99f06321895a01614fede0f81b2bf858b3cc3f12e6fb56f50278cd8057"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P28.mmd",
+    "bytes": 279,
+    "sha256": "5a59d131bea8ae141fb43fd23b9edfcc7139cf2639b15b6cb437d8a25675a60a"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P28.png",
+    "bytes": 71470,
+    "sha256": "97cf698b08cb71b98a0c3a3e81d1026fb0971b7df13134e0cc7c2305efe16514"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P28.svg",
+    "bytes": 2637,
+    "sha256": "788c870d4023d490ced63699104a5ac8f1e3811e79d5b89aeb397295bf8c5118"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29.mmd",
+    "bytes": 658,
+    "sha256": "64a952dff104b1ad5063ef4f557c05bd2e5d2eaab2c53d0c5e7dbf3bb2f088d0"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29.png",
+    "bytes": 113040,
+    "sha256": "b7ac17965e7d704551491695233244ace866009c80d32699e48057585b3391a0"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29.svg",
+    "bytes": 4410,
+    "sha256": "c6204c731a24fae1954f9e6c7e3b0b55fc891d1e731cdd0eac7ac4e918efe1de"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29_中国分区.mmd",
+    "bytes": 552,
+    "sha256": "0e380fb9421fe4d843da8845d6385a02f856a810c720260686962ed466557c0c"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29_中国分区.png",
+    "bytes": 114885,
+    "sha256": "171f9ebe8944ad1a800a3f0163a37005f9aa9b176174c5ec4bd056bd559dc6b4"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P29_中国分区.svg",
+    "bytes": 1957,
+    "sha256": "f543900790ea3fa9e4a7cfbd99156b6ded207cde93d58b42f6aae29df9497c3d"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P30.mmd",
+    "bytes": 116,
+    "sha256": "3f9451114f45a724baea33bfb89be4fdbc8fa39eefd051f774aa449456d8a9f4"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P30.png",
+    "bytes": 89204,
+    "sha256": "bd698267178df87fd66430fe7092edf9f02b786383058f30fc034aec00ca4cf6"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P30.svg",
+    "bytes": 2714,
+    "sha256": "6bcfe6ce338231848fa1a45c07d44a554c4bcb6c1bb17eb63c1a254b299b8b36"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/P30_表格.csv",
+    "bytes": 365,
+    "sha256": "f339adaba7630234e3301f8fdd38884e08f8970904ff8cb3b1250acd67a64446"
+  },
+  {
+    "file": "03_吴昀轩_防御体系与AI/图表素材/使用说明.md",
+    "bytes": 820,
+    "sha256": "70d0585a2554e3db1834d062bb2cb871466b01d89a0830537e6fb4c591779f53"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P11.mmd",
+    "bytes": 95,
+    "sha256": "ca69c3d0fbcd88a91365477d97671f0b5b1f6b38ad7aabeb43800988aa4ef6c7"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P11.png",
+    "bytes": 66410,
+    "sha256": "7ae4b767d6abc5b09b97cf65ad224254ec2fc669ca47bcb19445140a5ec48ef4"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P11.svg",
+    "bytes": 2962,
+    "sha256": "dab0946b1d01c483c0520c643ed932600f099062f8132c39b0717f7c0f609742"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P11_表格.csv",
+    "bytes": 277,
+    "sha256": "91906c046559e63bf66675f04ffe6c6693d2d65987371002899709a58e47be79"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P12.mmd",
+    "bytes": 106,
+    "sha256": "6e728b9b02caebf357387a071f3d711c07c9cf5dab0e4f6a482afe6e8d1dea7e"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P12.png",
+    "bytes": 77985,
+    "sha256": "bbe742a4c8d08116594f101064bfcec72e1bbd2cfd5b083c3b579fcc25b55d29"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P12.svg",
+    "bytes": 3527,
+    "sha256": "f84ddc2caa8b79540a906caa528874e49dac9cad85622898506d8f6de36063de"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P12_表格.csv",
+    "bytes": 356,
+    "sha256": "589ca1b85e0edda791a62cb04cf59031b6b4673a97a9a5ed0f397bb4c7428f83"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P13.mmd",
+    "bytes": 304,
+    "sha256": "a0cd7e06d768f75c384a6797cb7949f1914c31e3848de9fada769f12ed4a1416"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P13.png",
+    "bytes": 90958,
+    "sha256": "c6c4281884165c392e6e0e898d00351b2a9a693742b13e449d8f56d4a4e8ea9b"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P13.svg",
+    "bytes": 2748,
+    "sha256": "7be1bb28859848357d1c09ab6d1f424074d6fa8febab5d8bdf04ae76d455e390"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P14.mmd",
+    "bytes": 260,
+    "sha256": "91ea54e94e0c9c326ede9d12ef3517673cf761035c2b559d8fdcfb081ad70d8a"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P14.png",
+    "bytes": 79436,
+    "sha256": "310e8a4f5dbf3f76f4f38f5d2b0d89dfff0c3aa1812a9110781e73b150cb8182"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P14.svg",
+    "bytes": 3459,
+    "sha256": "2d37126cb8d32547bc9cf2212206af965dd0a57d7a52c9bfad7f18913bf99469"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P15.mmd",
+    "bytes": 278,
+    "sha256": "2152488e9a0f4c3ca97df254d1e475f1f9700c1e9d205901e67ba671978bb80f"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P15.png",
+    "bytes": 67075,
+    "sha256": "b1c37b43b5522ac713eacd1338b06876e20b1c855815945f7e3155ef3823db68"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P15.svg",
+    "bytes": 2795,
+    "sha256": "5badd9aaf6abeb9cf0de3f87ce2bb4731181651116845488d1911cdb0f452cd8"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P16.mmd",
+    "bytes": 206,
+    "sha256": "bada2fe40fa5fe8986df7192cf92a1171f2cb37baf9846504024f06aea6a1352"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P16.png",
+    "bytes": 67592,
+    "sha256": "e2cadec59ed02371cb3cf208ecb57221d8510f7d66abe6e0d970bb7ad81bbaf1"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P16.svg",
+    "bytes": 3065,
+    "sha256": "1055dbf0b0e63ac0f2f5e172345eaf1a9f691bd1110a633b5b84e8b1e85fff53"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P17.mmd",
+    "bytes": 132,
+    "sha256": "ec43f1134b6bb7d94f394fe7535d52d8ba2cc8de7047d432ad352e5f8c91f0f2"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P17.png",
+    "bytes": 67582,
+    "sha256": "d4f9c2d7e68fb99f6e923479f261e35149653dae4dcfc60bbd322dc8bf3c1ae9"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P17.svg",
+    "bytes": 2080,
+    "sha256": "6b6fb9126312be566c2c101b93e646803c92bbf92702bcf26a94bc7dca22ce78"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P18.mmd",
+    "bytes": 278,
+    "sha256": "69e2154de154a398f7f0c3a749ab93a57d46153514fb31f09099fe1a449c45c0"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P18.png",
+    "bytes": 89969,
+    "sha256": "1f006a68ad358669a6921df2d8d98f2ec8fbeec899940e526b5ade1b6b8bd5b9"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P18.svg",
+    "bytes": 3252,
+    "sha256": "4fc5b68e92a29dffe7332004aadeeb6883a8d47fcaf0fe7f060de6198069c6e8"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P19.mmd",
+    "bytes": 101,
+    "sha256": "aff54d9078cab8c04ad9dca78e7c3999195a148abcae986717133c6df312d6fc"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P19.png",
+    "bytes": 91575,
+    "sha256": "4e11ff157952a6bb2086527e76c659f414cd008ded2643d37875039688dd1ea1"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P19.svg",
+    "bytes": 3746,
+    "sha256": "e095b013b72753c487b25e051aa5cf1809a32e120f04b5822fff485bdec3a257"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P19_表格.csv",
+    "bytes": 394,
+    "sha256": "2413b0c2e5e5da5e4b12596611e74015eb69fd2d3763db25c3243e74646d49a7"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P20.mmd",
+    "bytes": 108,
+    "sha256": "60a7f4e40a1aa692c807dc0afe48a5425343fbded123b191595e8d7e8ce996d9"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P20.png",
+    "bytes": 87517,
+    "sha256": "9a9f84f8900d62205aa21e503b5a79218d2896e461eea5863930b333a1a36942"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P20.svg",
+    "bytes": 3529,
+    "sha256": "3ebf7426361c1b8471f056fb93af36cd6693da2fe7ac3516196dacef97a14932"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/P20_表格.csv",
+    "bytes": 368,
+    "sha256": "6e4d527736f8a5379dd4a1a1f95ac764dd2a78991064ac02b367e9a251659167"
+  },
+  {
+    "file": "02_刘酝潇_真实案例与影响传播/图表素材/使用说明.md",
+    "bytes": 820,
+    "sha256": "70d0585a2554e3db1834d062bb2cb871466b01d89a0830537e6fb4c591779f53"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P01.mmd",
+    "bytes": 86,
+    "sha256": "041276fa939e94ec8a29e69fd5df0ce59b0a2a3fff9581e4edda95165777087b"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P01.png",
+    "bytes": 73570,
+    "sha256": "a81ae39bedd69c1f5ed197a4096e9aacd9f90baa87d8860767b64d3ca14f4aa8"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P01.svg",
+    "bytes": 1825,
+    "sha256": "d9fdc0a4a203900b7a1a0afcd3eca80761f7e638aadded7913518c857b29ed66"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P02.mmd",
+    "bytes": 107,
+    "sha256": "8cb9e8714d8386083e365d4113ca5ccd688b7192fc2756c939cb83d49a73aeca"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P02.png",
+    "bytes": 63902,
+    "sha256": "aa331b297334820b734543b7d0177aa94ed64aa894566a56c34c0d6581da5038"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P02.svg",
+    "bytes": 1774,
+    "sha256": "d2ce52bd53ee4989f45162bacec01b0a800115fa875adc7e83273b105eecc002"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P03.mmd",
+    "bytes": 493,
+    "sha256": "0fda07329e4cdeb932becfaf722222f01e19c0916cdf3e8d7ee7a1573895f7df"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P03.png",
+    "bytes": 91561,
+    "sha256": "fa459d9d02a0cb1ea6f4ea99e6f1e8f4334c26fc4b4231b34df83e2a47422e6d"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P03.svg",
+    "bytes": 4058,
+    "sha256": "655af075e0c6c4ec47200e7ab92424db3de37ce2be9fa001988a250f0554680c"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P04.mmd",
+    "bytes": 264,
+    "sha256": "adc6466eb525688679d127f3af062ef61d7f433addef3ebfe03e35bf65761382"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P04.png",
+    "bytes": 88450,
+    "sha256": "320325efa4346eb140e82a7769e77b200f08988f146b771211bf986a597d55fc"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P04.svg",
+    "bytes": 3489,
+    "sha256": "c5ba6366ec245532dfa8ea1e6a57d80e4d1f16d827840b385ef3d5d36e29d7d2"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P05.mmd",
+    "bytes": 111,
+    "sha256": "99010a2db0a1b9e118e7188555063ab7af6f2c7cc1ad2ba057ac1e83d706b669"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P05.png",
+    "bytes": 84933,
+    "sha256": "b291bafbc9765adceab128fcdeae71ab22616168222e88c636fd3b3779e37773"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P05.svg",
+    "bytes": 3548,
+    "sha256": "8378c269dd14cec02baaf71065af2cd484f4871d8b2f9ef4460f8f0da099f066"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P05_表格.csv",
+    "bytes": 365,
+    "sha256": "a87e6dffae6965b939c5cb363e794c3c5b5808b080538c6a45139d0e3e7e5ede"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P06.mmd",
+    "bytes": 185,
+    "sha256": "57300b3e51b86dd5db0e0bf8490e97622a353251b2e9e1340f766998cd6cae2f"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P06.png",
+    "bytes": 66012,
+    "sha256": "656f1f0caf32b7089dfc8494fea2ac57110e035ce4cc04016ef0b73facbb1c8c"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P06.svg",
+    "bytes": 3047,
+    "sha256": "23b9cbb87f23b94365015f78f7f69900902022cd8f292b2091dae1fc5f3db06b"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P07.mmd",
+    "bytes": 319,
+    "sha256": "1cebeae5685da8ba4a80c69c61cf217422c05e7240d53dde47d5fd4192f52a43"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P07.png",
+    "bytes": 93426,
+    "sha256": "b66db8a51b231292be433f6ae270a9fa9f2842a74694b43836f34c54a4240780"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P07.svg",
+    "bytes": 2691,
+    "sha256": "9be910aebe348984ee9b0d4483b717745c2e98c123c91bee878393660750f1cc"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P08.mmd",
+    "bytes": 188,
+    "sha256": "1a57a40e3fd0f1e3200649b3b1eaec411286dca89c4c7ad75ebeedd923298db8"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P08.png",
+    "bytes": 66156,
+    "sha256": "b3f344c204cbcc6e041c9c0b14fa14d09eb347d9646e0db7661565a590cb5693"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P08.svg",
+    "bytes": 3038,
+    "sha256": "c82f45713714a748ff9a7b83f57c609b76ecb2f1517508caf89d46cd759ae634"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P09.mmd",
+    "bytes": 138,
+    "sha256": "8d04b7f0396afb83a004f6618ba5b544eb19499ad3d4635b31fc891aa40b0636"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P09.png",
+    "bytes": 94198,
+    "sha256": "1cb927387fb6ed4f36c5c381c661e1cac2ee1861ca4aaf3cf05aa908402c447f"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P09.svg",
+    "bytes": 3581,
+    "sha256": "e223ef46ed661a9381f77718a21123447b0d42a30568e6f3d726e9598bb593e4"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P09_表格.csv",
+    "bytes": 417,
+    "sha256": "e5bc264e0c29de731210a1cf4a7b6737bd1650db822650d69b73fbef17b37351"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P10.mmd",
+    "bytes": 170,
+    "sha256": "8e5a5aea520a90dca3c340e3a7930f4d5cf57183d144c0a8a1eed74ff551ece9"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P10.png",
+    "bytes": 60543,
+    "sha256": "db600bef3addc972bcd34c21e37ed78e732d24957ca4941c97d3f1112eb2d9e6"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/P10.svg",
+    "bytes": 3041,
+    "sha256": "e7198f8a5a9f9e0791330fc4448c0d59ff6730d14514155c46e0e80fecead12e"
+  },
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/使用说明.md",
+    "bytes": 820,
+    "sha256": "70d0585a2554e3db1834d062bb2cb871466b01d89a0830537e6fb4c591779f53"
+  }
+]

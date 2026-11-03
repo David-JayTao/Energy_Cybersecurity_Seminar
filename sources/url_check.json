@@ -1,0 +1,185 @@
+[
+  {
+    "id": "R01",
+    "url": "https://doi.org/10.6028/NIST.SP.800-82r3",
+    "status": 200,
+    "verification": "本地已下载PDF，保留首次成功结果",
+    "bytes": 8584345
+  },
+  {
+    "id": "R02",
+    "url": "https://www.sans.org/go/ics-defense-use-cases-duc",
+    "final_url": "https://www.sans.org/go/ics-defense-use-cases-duc",
+    "status": 200,
+    "bytes": 205912,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R03",
+    "url": "https://www.cisa.gov/sites/default/files/publications/EO13800-electricity-subsector-report.pdf",
+    "status": 200,
+    "verification": "本地已下载PDF，保留首次成功结果",
+    "bytes": 1016061
+  },
+  {
+    "id": "R04",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R48067/R48067.12.pdf",
+    "status": 200,
+    "verification": "本地已下载PDF，保留首次成功结果",
+    "bytes": 973373
+  },
+  {
+    "id": "R05",
+    "url": "https://www.welivesecurity.com/2017/06/12/industroyer-biggest-threat-industrial-control-systems-since-stuxnet/",
+    "final_url": "https://www.welivesecurity.com/2017/06/12/industroyer-biggest-threat-industrial-control-systems-since-stuxnet/",
+    "status": 200,
+    "bytes": 76594,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R06",
+    "url": "https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/",
+    "final_url": "https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/",
+    "status": 200,
+    "bytes": 73306,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R07",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-117hhrg45085/html/CHRG-117hhrg45085.htm",
+    "final_url": "https://www.govinfo.gov/content/pkg/CHRG-117hhrg45085/html/CHRG-117hhrg45085.htm",
+    "status": 200,
+    "bytes": 206783,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R08",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=47917",
+    "final_url": "https://www.eia.gov/todayinenergy/detail.php?id=47917",
+    "status": 200,
+    "bytes": 54082,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R09",
+    "url": "https://www.gao.gov/products/gao-21-105263",
+    "final_url": "https://www.gao.gov/products/gao-21-105263",
+    "status": 403,
+    "bytes": 399,
+    "verification": "脚本获取失败；已通过网页工具读取官方内容，见事实核查"
+  },
+  {
+    "id": "R10",
+    "url": "https://www.energy.gov/ceser/colonial-pipeline-cyber-incident",
+    "final_url": "https://www.energy.gov/ceser/colonial-pipeline-cyber-incident",
+    "status": 200,
+    "bytes": 146308,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R11",
+    "url": "https://www.energy.gov/ceser/articles/doe-cybersecurity-report-provides-recommendations-secure-distributed-clean-energy",
+    "final_url": "https://www.energy.gov/ceser/articles/doe-cybersecurity-report-provides-recommendations-secure-distributed-clean-energy",
+    "status": 200,
+    "bytes": 125212,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R12",
+    "url": "https://webstore.iec.ch/en/publication/30727",
+    "final_url": "https://webstore.iec.ch/en/publication/30727",
+    "status": 200,
+    "bytes": 439286,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R13",
+    "url": "https://syc-se.iec.ch/deliveries/cybersecurity-guidelines/security-standards-and-best-practices/iec-62351/",
+    "final_url": "https://syc-se.iec.ch/deliveries/cybersecurity-guidelines/security-standards-and-best-practices/iec-62351/",
+    "status": 200,
+    "bytes": 237704,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R14",
+    "url": "https://attack.mitre.org/matrices/ics/",
+    "final_url": "https://attack.mitre.org/matrices/ics/",
+    "status": 200,
+    "bytes": 262739,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R15",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202412/t20241211_1394960.html",
+    "final_url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202412/t20241211_1394960.html",
+    "status": 200,
+    "bytes": 6903,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R16",
+    "url": "https://zfxxgk.nea.gov.cn/2022-11/16/c_1310683245.htm",
+    "final_url": "https://zfxxgk.nea.gov.cn/2022-11/16/c_1310683245.htm",
+    "status": 200,
+    "bytes": 6386,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R17",
+    "url": "https://zfxxgk.nea.gov.cn/2024-05/16/c_1310777555.htm",
+    "final_url": "https://zfxxgk.nea.gov.cn/2024-05/16/c_1310777555.htm",
+    "status": 200,
+    "bytes": 26315,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R18",
+    "url": "https://cposkitt.github.io/files/publications/Inoue-et_al.DMCIS.2017.pdf",
+    "status": 200,
+    "verification": "本地已下载PDF，保留首次成功结果",
+    "bytes": 1200217
+  },
+  {
+    "id": "R19",
+    "url": "https://doi.org/10.1109/PESGM51994.2024.10689030",
+    "final_url": "https://ieeexplore.ieee.org/document/10689030/",
+    "status": 202,
+    "bytes": 0,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  },
+  {
+    "id": "R20",
+    "url": "https://www.ornl.gov/news/artificial-intelligence-tools-secure-tomorrows-electric-grid",
+    "final_url": "https://www.ornl.gov/news/artificial-intelligence-tools-secure-tomorrows-electric-grid",
+    "status": 403,
+    "bytes": 5694,
+    "verification": "脚本获取失败；已通过网页工具读取官方内容，见事实核查"
+  },
+  {
+    "id": "R21",
+    "url": "https://doi.org/10.6028/NIST.AI.600-1",
+    "status": 200,
+    "verification": "本地已下载PDF，保留首次成功结果",
+    "bytes": 1174643
+  },
+  {
+    "id": "R22",
+    "url": "https://www.cyber.gov.au/sites/default/files/2025-12/principles-for-the-secure-integration-of-artificial-intelligence-in-operational-technology.pdf",
+    "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Read timed out. (read timeout=15)",
+    "verification": "本地未保存；已通过网页工具核对公开内容，见书目限制"
+  },
+  {
+    "id": "R23",
+    "url": "https://www.cyber.gov.au/publication/principles-of-operational-technology-cyber-security",
+    "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Read timed out. (read timeout=15)",
+    "verification": "本地未保存；已通过网页工具核对公开内容，见书目限制"
+  },
+  {
+    "id": "R24",
+    "url": "https://content.govdelivery.com/accounts/USDHSCISA/bulletins/4151784",
+    "final_url": "https://content.govdelivery.com/accounts/USDHSCISA/bulletins/4151784",
+    "status": 200,
+    "bytes": 26539,
+    "verification": "HTTP获取成功；实质核验范围见书目，HTTP成功不等于全文已审阅"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "汪雨航",
+    "pages": 10,
+    "han": 3267,
+    "units": 3275,
+    "nonspace_chars": 3595,
+    "seconds": 778,
+    "minutes": 12.97,
+    "fast": 12.13,
+    "slow": 13.93
+  },
+  {
+    "name": "刘酝潇",
+    "pages": 10,
+    "han": 3308,
+    "units": 3325,
+    "nonspace_chars": 3702,
+    "seconds": 788,
+    "minutes": 13.13,
+    "fast": 12.3,
+    "slow": 14.13
+  },
+  {
+    "name": "吴昀轩",
+    "pages": 10,
+    "han": 3333,
+    "units": 3352,
+    "nonspace_chars": 3683,
+    "seconds": 796,
+    "minutes": 13.27,
+    "fast": 12.39,
+    "slow": 14.24
+  }
+]

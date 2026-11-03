@@ -1,0 +1,49 @@
+[
+  {
+    "file": "NIST_SP800_82r3.pdf",
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf",
+    "status": 200,
+    "bytes": 8584345
+  },
+  {
+    "file": "SANS_Ukraine2015.pdf",
+    "url": "https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt6a77276749b76a40/607f235992f0063e5c070fff/E-ISAC_SANS_Ukraine_DUC_5%5B73%5D.pdf",
+    "status": 200,
+    "bytes": 1805384
+  },
+  {
+    "file": "China_Order27.pdf",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202412/P020241211585903621428.pdf",
+    "status": 200,
+    "bytes": 251647
+  },
+  {
+    "file": "Inoue2017.pdf",
+    "url": "https://cposkitt.github.io/files/publications/Inoue-et_al.DMCIS.2017.pdf",
+    "status": 200,
+    "bytes": 1200217
+  },
+  {
+    "file": "Li2024.pdf",
+    "url": "https://par.nsf.gov/servlets/purl/10579916",
+    "status": 200,
+    "bytes": 352694
+  },
+  {
+    "file": "AI_OT_2025.pdf",
+    "url": "https://www.cyber.gov.au/sites/default/files/2025-12/principles-for-the-secure-integration-of-artificial-intelligence-in-operational-technology.pdf",
+    "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Read timed out. (read timeout=40)"
+  },
+  {
+    "file": "Colonial_hearing2021.html",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-117hhrg45085/html/CHRG-117hhrg45085.htm",
+    "status": 200,
+    "bytes": 206783
+  },
+  {
+    "file": "CRS_Ukraine.pdf",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R48067/R48067.12.pdf",
+    "status": 200,
+    "bytes": 973373
+  }
+]

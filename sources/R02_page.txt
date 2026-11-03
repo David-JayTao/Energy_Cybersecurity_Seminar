@@ -1,0 +1,196 @@
+ICS Defense Use Cases (DUC) | SANS Institute
+Skip to main content
+Go to search
+Go to footer
+Log In
+Join - It's Free
+Search
+Search
+Training
+Learning Paths
+Free Resources
+For Organizations
+Back
+Training
+Courses
+Build cyber prowess with training from renowned experts.
+Ways to Train
+Multiple training options to best fit your schedule and preferred learning style.
+Cyber Ranges
+Hands-on training to keep you at the top of your game.
+Training Events & Summits
+Expert-led training at locations around the world.
+Certifications
+Demonstrate cybersecurity expertise with GIAC certifications.
+Free Training Events
+Upcoming workshops, webinars and local events.
+Workforce Security and Risk Training
+Harden enterprise security with end-user and role-based training.
+Meet Our Instructors
+Train with world-class cybersecurity experts who bring real-world expertise to class.
+Featured Course
+View All Courses
+SEC536: Adversarial AI - Penetration Testing AI Systems
+SEC536
+Offensive Operations, Artificial Intelligence
+View course details
+Register
+Get a Free Hour of SANS Training
+Experience SANS training through course previews.
+Learn More
+Back
+Learning Paths
+By Focus Area
+Chart your path to job-specific training courses.
+New to Cyber
+Give your cybersecurity career the right foundation for success.
+By Job Role
+Find the courses and certifications that align with your current or desired role.
+Leadership
+Training designed to help security leaders reduce organizational risk.
+By Skills Framework or Directive
+Explore how SANS courses align with leading cybersecurity skills frameworks including NICE, ECSF and DoD 8140
+Degree and Certificate Programs
+Gain the skills, certifications, and confidence to launch or advance your cybersecurity career.
+By Skills Roadmap
+Find the right training path based on critical skills.
+Featured
+View all Focus Areas
+NEW - AI Security Training
+Can't find what you are looking for?
+Let us help.
+Contact us
+Back
+Free Resources
+Watch & Listen
+Webinars
+Summit Presentations
+Podcasts & Live Streams
+Overview
+Read
+Blog
+Newsletters
+Internet Storm Center
+Overview
+Download
+Open Source Tools
+Posters & Cheat Sheets
+Policy Templates
+White Papers
+Overview
+SANS Community Benefits
+Connect, learn, and share with other cybersecurity professionals
+Customer Case Studies
+Discover how organizations and individual cyber practitioners use SANS training and GIAC certifications
+AI Risk & Readiness
+Explore expert-driven guidance, training, and tools to help defend against AI-powered threats and adopt AI securely
+Join the SANS Community
+Become a member for instant access to our free resources.
+Sign Up
+Back
+For Organizations
+Team Development
+Why Partner with SANS
+Group Purchases
+Skills & Talent Assessments
+Private & Custom Training Programs
+Overview
+Leadership Development
+Management Courses & Accreditation
+Cyber Crisis Exercises
+SANS Cyber Leaders Network
+Overview
+Workforce Security & Risk
+Security Awareness Training
+Compliance Training
+Risk Management
+Services
+Resources
+Overview
+Public Sector
+Mission-focused cybersecurity training for government, defense, and education
+Partnerships
+Explore industry-specific programming and customized training solutions
+Sponsorship Opportunities
+Sponsor a SANS event or research paper
+Interested in developing a training plan to fit your organization’s needs?
+We're here to help.
+Contact Us
+Group Purchasing
+Log In
+Join - It's Free
+Menu
+Search
+Search
+Group Purchasing
+GO
+ICS Defense Use Cases (DUC)
+Previous level
+ICS Defense Use Cases (DUC)
+ICS Defense Use Cases
+SANS ICS Defense Use Cases are white papers developed by experienced industrial cybersecurity practitioners to examine significant incidents, reported attacks, and claims of attacks involving industrial environments—including activity attributed to or associated with nation-state actors. Each paper draws upon publicly available reporting, threat intelligence, and observed or potential cyber-to-physical or process effects.
+
+Because publicly available information is often incomplete, the authors may explore technically plausible scenarios to address gaps in reporting. These scenarios help defenders understand what may be possible, identify lessons that extend beyond a single event, and consider how similar activity could be detected, mitigated, or prevented.
+
+Use these case studies to evaluate your critical systems and identify opportunities to strengthen their defenses.
+ICS Defense Use Case 7: Analysis of the recent report of supply chain attacks on US electric infrastructure by Chinese Actors
+June 12th, 2020
+Read More
+ICS Defense Use Case 6: Modular ICS Malware
+Aug. 3, 2017
+Read More
+ICS Defense Use Case 5: Analysis of the Cyber Attack on the Ukrainian Power Grid
+Mar. 18, 2016
+Read More
+ICS Defense Use Case 4: Media Reports of Attacks on US Infrastructure by Iran
+Jan. 5, 2016
+Read More
+ICS Defense Use Case 3: The Lost DUC - Unavailable for Online
+Apr. 23, 2015
+ICS Defense Use Case 2: German Steel Mill Cyber Attack
+Dec. 30, 2014
+Read More
+ICS Defense Use Case 1: Media Report of the Baku-Tbilisi-Ceyhan (BTC) Pipeline Cyber Attack
+Dec. 20, 2014
+Read More
+Disclaimer
+SANS ICS Defense Use Cases are based on publicly available information. SANS and the contributing authors have not independently verified that the incidents occurred exactly as described in public reporting. Where facts are incomplete or unconfirmed, the papers may examine technically plausible scenarios for educational purposes. These scenarios should not be interpreted as confirmed accounts of an incident. The resources are intended to help industrial cybersecurity practitioners identify defensive lessons and prepare for similar threats.
+Learn More About Industrial Control Systems Security Training Courses and Certifications
+Industrial Control Systems (ICS) and Operational Technology (OT) are increasingly targeted by cyber threats, putting businesses, governments, and national infrastructure at risk. Specialized ICS/OT security training is vital to securing operations across all industries and defending the systems that make, move, and power the world.
+Learn More
+Get Curated News, Vulnerabilities, and Essential Security Awareness Tips
+Subscribe to Newsletter
+The Highest Standard in Cybersecurity Education Since 1989
+Company
+About
+Instructors
+Careers
+Press
+Help & Support
+Contact
+FAQs
+Legal
+Training Programs
+Work Study Program
+Academies & Programs
+Workforce Development Partnerships
+Law Enforcement
+SkillsFuture Singapore
+Cybersecurity Degrees & Certificates
+Get Involved
+Become a SANS Member
+Become an Instructor
+Become a Sponsor
+Speak at a Summit
+Award Programs
+Join the Cyber Leaders Network
+Privacy Policy
+Terms and Conditions
+Do Not Sell/Share My Personal Information
+Cookie Notice
+©
+2026
+The Escal Institute of Advanced Technologies, Inc. d/b/a SANS Institute.
+Our
+Terms and Conditions
+detail our trademark and copyright rights. Any unauthorized use is expressly prohibited.

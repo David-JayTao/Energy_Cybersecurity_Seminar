@@ -1,0 +1,263 @@
+Cyberattack halts fuel movement on Colonial petroleum pipeline -
+		U.S. Energy Information Administration (EIA)
+Skip to sub-navigation
+U.S. Energy Information Administration - EIA - Independent Statistics and Analysis
+Menu
+Statistics
+Analysis
+Tools
+Education
+News
+Search
+Today in Energy
+Skip to page content
+Recent articles
+Browse by tag
+liquid fuels
+natural gas
+electricity
+oil/petroleum
+production/supply
+crude oil
+consumption/demand
+generation
+prices
+map
+states
+exports/imports
+international
+coal
+renewables
+weather
+forecasts/projections
+gasoline
+capacity
+steo (short-term energy outlook)
+Prices
+Archive
+About
+Glossary
+FAQS
+May 11, 2021
+Cyberattack halts fuel movement on Colonial petroleum pipeline
+Source:
+U.S. Energy Information Administration,
+East Coast and Gulf Coast Transportation Fuels Markets
+Note:
+Map updated to reflect changes in U.S. refineries since initial report.
+Colonial Pipeline, a major delivery system spanning from the U.S. Gulf Coast to the East Coast for transportation fuels and other refined petroleum products,
+halted operations
+on Friday, May 7, to contain the effects of a cyberattack. As of Monday, May 10, the pipeline had not resumed operations of its main lines, although some smaller lines are operational. The company announced that it hopes to restore service by the end of the week.
+Colonial Pipeline, a 2.5-million-barrel-per-day (b/d) system of approximately 5,500 miles of pipeline, is a
+significant mode of shipment for transportation fuels
+for the East Coast, particularly for several states in the southeastern United States. The pipeline carries refined petroleum products such as gasoline, diesel, heating oil, and jet fuel from Houston, Texas, on the U.S. Gulf Coast up to Linden, New Jersey, and serves several markets along the route through various branch lines. Because no refineries between Alabama and the mid-Atlantic produce substantial quantities of transportation fuels, the southeastern United States is supplied primarily by pipeline flows, and to a lesser degree, with marine shipments from the U.S. Gulf Coast and imports.
+Until Colonial Pipeline resumes operation, petroleum distribution terminals in the Southeast will rely on inventories and on supplies obtained from alternative sources, such as the smaller 720,000 b/d Products (SE) Pipeline that also carries petroleum products from the U.S. Gulf Coast to as far as Washington, DC.
+Pipeline shipments move at approximately five miles per hour, so some markets may need to rely on inventories for several days after Colonial Pipeline service is restored. Markets along the Atlantic Coast with access to deepwater ports, such as Savannah, Georgia; Charleston, South Carolina; Wilmington, North Carolina; and Norfolk, Virginia, can receive limited imports from the global market and from marine shipments via
+coastwise compliant shipping
+originating from the U.S. Gulf Coast. Central Atlantic and Northeast markets can import petroleum products from Europe and Canada, and they can also obtain supplies from in-region refineries.
+Federal and state governments have issued regulatory waivers and notices to loosen restrictions on trucked shipments of petroleum products. As of May 9, the
+Federal Motor Carrier Safety Administration
+issued waivers on driving time for truckers delivering refined petroleum products for 17 states and the District of Columbia.
+Our most recent
+Weekly Petroleum Status Report
+(WPSR) presented weekly regional closing inventory data for the East Coast and its subregions as of April 30. On April 30, motor gasoline stocks in the New England and Central Atlantic regions (
+PADDs 1A and 1B
+) were a combined 40.8 million barrels, or about 1% more than the five-year average. Total motor gasoline stocks in the Lower Atlantic region (PADD 1C) were 23.8 million barrels, 9% less than the five-year average.
+Source:
+U.S. Energy Information Administration,
+Weekly Petroleum Status Report
+The upcoming WPSR release on May 12 will include inventory data as of the morning of Friday, May 7, providing estimates of petroleum markets just prior to the outage.  Outage-related effects on regional inventory levels and other series may not be apparent in our WPSR data until Wednesday, May 19, which will show inventories as of Friday, May 14.
+Principal contributors:
+Jeff Barron, Kevin Hack, Tom White
+Tags:
+pipelines
+,
+liquid fuels
+,
+oil/petroleum
+,
+map
+More recent articles ›
+About EIA
+Open Data
+Legacy
+Contact Us
+U.S. Energy Information Administration
+1000 Independence Ave., SW
+Washington, DC 20585
+Policies
+Privacy/Security
+Copyright & Reuse
+Accessibility
+Information Quality
+Freedom of Information Act (FOIA)
+Related Sites
+usa.gov
+U.S. Department of Energy
+Stay Connected
+Facebook
+X
+Youtube
+LinkedIn
+Email Updates
+RSS Feeds
+Statistics
+Analysis
+Tools
+Education
+News
+Petroleum & Other Liquids
+Crude oil, gasoline, heating oil, diesel, propane, and other liquids including biofuels and natural gas liquids.
+Natural Gas
+Exploration and reserves, storage, imports and exports, production, prices, sales.
+Electricity
+Sales, revenue and prices, power plants, fuel use, stocks, generation, trade, demand & emissions.
+Coal
+Reserves, production, prices, employment and productivity, distribution, stocks, imports and exports.
+Nuclear & Uranium
+Uranium fuel, nuclear reactors, generation, spent fuel.
+Renewable & Alternative Fuels
+Includes hydropower, solar, wind, geothermal, biomass and ethanol.
+EIA Survey Forms
+Forms EIA uses to collect energy data including descriptions, links to survey instructions, and additional information.
+Total Energy
+Comprehensive data summaries, comparisons, analysis, and projections integrated across all energy sources.
+Monthly Energy Review
+Consumption & Efficiency
+Energy use in homes, commercial buildings, manufacturing, and transportation.
+Residential Energy Consumption Survey (RECS)
+Commercial Buildings Energy Consumption Survey (CBECS)
+Manufacturing Energy Consumption Survey (MECS)
+U.S. States
+State energy information, including overviews, rankings, data, and analyses.
+International
+International energy information, including overviews, rankings, data, and analyses.
+Environment
+Greenhouse gas data, voluntary reporting, electric power plant emissions.
+U.S. Energy-Related Carbon Dioxide Emissions
+Energy-Related Carbon Dioxide Emissions at the State Level
+Analysis and Projections
+Monthly and yearly energy forecasts, analysis of energy topics, financial analysis, congressional reports.
+Short-Term Energy Outlook
+Annual Energy Outlook
+Special Reports
+Special market analysis and/or data requests.
+EIA-112 Residential Utility Disconnections
+SHIP Act
+Energy & Financial Markets: What Drives Crude Oil Prices?
+International
+International energy analyses.
+Regional Analysis Briefs
+Country Analysis Briefs
+World Oil Transit Chokepoints
+OPEC Revenue
+Global Energy Security Data
+Data Tools, Apps, & Maps
+Tools to customize searches, view specific data sets, study detailed documentation, and access time-series data.
+Open Data
+EIA's free and open data available as API, Excel add-in, bulk files, and widgets
+EIA Beta
+Come test out some of the products still in development and let us know what you think!
+Open Source Code
+EIA's open source code, available on GitHub.
+All Reports & Products
+Email Updates
+Sign up for email subscriptions to receive messages about specific EIA products
+RSS Feeds
+Subscribe to feeds for updates on EIA products including Today in Energy and What's New.
+Follow us. . .
+A-Z Index
+A
+|
+B
+|
+C
+|
+D
+|
+E
+|
+F
+|
+G
+|
+H
+|
+I
+|
+J
+|
+K
+|
+L
+|
+M
+|
+N
+|
+O
+|
+P
+|
+Q
+|
+R
+|
+S
+|
+T
+|
+U
+|
+V
+|
+W
+|
+XYZ
+Energy Explained
+What is Energy?
+Units & Calculators
+U.S. Energy Facts
+Use of Energy
+Energy & Environment
+Petroleum
+Hydrocarbon Gas Liquids
+Natural Gas
+Coal
+Nuclear
+Electricity
+Hydrogen
+Hydropower
+Biofuels
+Biomass
+Wind
+Geothermal
+Solar
+For Teachers
+Lesson plans, science fair experiments, field trips, teacher guide, and career corner.
+Glossary
+FAQs
+Coal
+Conversion & Equivalents
+Oil/Petroleum
+Diesel
+Electricity
+Environment
+Gasoline
+General Energy
+Natural Gas
+Nuclear
+Prices
+Renewables
+What's New?
+Petroleum Marketing Monthly
+Nov 02, 2026
+Natural Gas Monthly
+Oct 30, 2026
+Petroleum Supply Monthly
+Oct 30, 2026
+Press Room
+Press Releases
+Congressional Testimony
+Presentations
+Events

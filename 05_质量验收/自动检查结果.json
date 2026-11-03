@@ -1,0 +1,561 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "正式页30页",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "三份独立内容包",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "01_汪雨航_系统架构与安全风险页面数量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P01八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P01讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P01来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P02八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P02讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P02来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P03八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P03讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P03来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P04八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P04讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P04来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P05八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P05讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P05来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P06八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P06讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P06来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P07八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P07讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P07来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P08八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P08讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P08来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P09八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P09讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P09来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P10八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P10讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P10来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "02_刘酝潇_真实案例与影响传播页面数量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "03_吴昀轩_防御体系与AI页面数量",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P21八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P21讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P21来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P22八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P22讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P22来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P23八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P23讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P23来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P24八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P24讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P24来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P25八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P25讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P25来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P26八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P26讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P26来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P27八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P27讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P27来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P28八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P28讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P28来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P29八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P29讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P29来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P30八项模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P30讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P30来源存在",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "至少20项有使用的核心文献",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "每人中央时长12–15分钟",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "全组中央时长36–42分钟",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "每人讲稿超过3000汉字",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "至少15个答辩题且包含主答简答详答证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "31组图表载体齐全",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "9份表格CSV",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mermaid实际解析",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "没有生成PPT或PPTX",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Markdown本地链接",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "无编码替换符",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "讨论提纲与课程报告存在",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "errors": [],
+  "input_files": [
+    {
+      "file": "能源互联网（计算机）2026研讨安排(1).xlsx",
+      "sha256": "9051802d78cc51afb7f20b6aee44108c0031382de8a6dc88257f6ab9c59315ee",
+      "bytes": 11560
+    },
+    {
+      "file": "课程作业安排26-27.pptx",
+      "sha256": "fa511bada032a17855a0fbac48d74ad7ca57bcf21b4ff279bbda3c809227de32",
+      "bytes": 3604161
+    }
+  ],
+  "counts": {
+    "pages": 30,
+    "refs": 24,
+    "svg": 31,
+    "png": 31,
+    "mermaid": 31,
+    "csv": 9
+  }
+}

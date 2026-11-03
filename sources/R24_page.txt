@@ -1,0 +1,74 @@
+CISA and U.S. Government Partners Unveil Guide to Accelerate Zero Trust Adoption in Operational Technology
+CISA and U.S. Government Partners Unveil Guide to Accelerate Zero Trust Adoption in Operational Technology
+Cybersecurity and Infrastructure Security Agency sent this bulletin at 04/29/2026 01:32 PM EDT
+FOR IMMEDIATE RELEASE
+Wednesday, April 29, 2026
+Contact:
+CISAMedia@cisa.dhs.gov
+CISA
+and U.S. Government Partners Unveil Guide to Accelerate Zero Trust Adoption in Operational Technology
+Guidance for OT Organizations: Comprehensive Asset Visibility, Secure Supply Chains, Robust Identity and Access Controls
+WASHINGTON
+– The Cybersecurity and Infrastructure Security Agency (CISA), along with the Department of War (DoW), Department of Energy (DOE), Federal Bureau of Investigation (FBI) and Department of State (DOS) today published a joint guide to assist organizations with operational technology (OT) systems - including government systems – with applying Zero Trust principles. The guide,
+Adapting Zero Trust Principles to Operational Technology
+, provides OT owners and operators and Zero Trust practitioners with practical insights on overcoming unique constraints, addressing potential challenges, and prioritizing key areas for integrating Zero Trust into OT environments.
+New attack vectors, expanded attack surface and magnified cybersecurity risks are more prevalent because OT systems are becoming increasingly interconnected, digitally monitored, and remotely operated. Improperly secured pathways create opportunities for threat actors to gain access to information technology (IT) and OT networks. Adapting and applying Zero Trust principles to fit the operational realities of the OT environment can help owners and operators close cyber risk gaps, however, it must be done carefully without disrupting their own systems in the process. Zero Trust strategies can prevent adversaries from compromising, manipulating, degrading, and disrupting the critical physical processes these systems control.
+“CISA has observed threat actors like Volt Typhoon targeting OT systems to compromise, escalate, and maintain access within operational environments. Zero Trust architecture is critical to preventing cyber incidents that could cause operators to lose visibility or control of essential systems,”
+said CISA Acting Executive Assistant Director for Cybersecurity Chris Butera
+. “This guide equips organizations to methodically navigate the complexities of adopting Zero Trust principles in OT environments. Together with our partners, CISA urges OT owners, operators, and integrators to use this resource to make informed decisions that reduce exposure and strengthen resilience—without jeopardizing mission-critical operations.”
+"The Department of War is driving Zero Trust for operational technology at an accelerated pace,"
+said Honorable Kirsten A. Davies, DoW Chief Information Officer. "
+In lockstep with our federal and industry partners, we are fortifying the infrastructure and interconnected weapon systems our Warfighters demand to fight and win. This is how we deliver peace through technical strength."
+"Operational technology underpins the systems Americans rely on every day, and adversaries know it,” said
+FBI Cyber Division Assistant Director Brett Leatherman
+. "Nation-state actors are pre-positioning on these networks because OT controls critical physical processes, and because these environments often lack the visibility to detect them early. This guide moves owners and operators from reactive to proactive. Resilience in OT isn't achieved through any single control; it requires layered defenses that raise the cost for adversaries at every stage. Alongside our partners, we're putting practical steps in the hands of the people who need them most."
+“Operational technology sits at the intersection of cybersecurity and physical consequence. That reality demands dedicated attention. In line with this joint guide, the State Department prioritizes sustained collaboration to establish shared discipline and systematically address concerns raised by OT engineers, network architects, and cybersecurity professionals,” said
+U.S. Department of State’s Diplomatic Security Service, Deputy Assistant Secretary for Cyber and Technology Security Gharun S. Lacy
+. “These integrated efforts combine multiple skillsets and put personnel onsite to safeguard critical infrastructure across U.S. missions worldwide.”
+This guide helps organizations overcome the unique challenges such as technology gaps from legacy infrastructure, operational constraints, and the safety requirements that come from the critical link between cybersecurity and physical processes. Key focus areas in this guide include establishing zones and conduits, proactively addressing supply chain risks, and implementing robust identity and access management.
+CISA offers a variety of resources—including guidance, services, tools, and training—applicable to zero trust and OT stakeholders and organizations at all levels of cybersecurity maturity. For more information, please visit
+Industrial Control Systems
+or
+Zero Trust
+on CISA.gov.
+###
+About CISA
+As the nation’s cyber defense agency and national coordinator for critical infrastructure security, the Cybersecurity and Infrastructure Security Agency leads the national effort to manage, uncover, and reduce risk to our digital and physical infrastructure Americans rely on every hour of every day.
+Visit
+CISA.gov
+for more information and follow us on
+X
+,
+Facebook
+,
+LinkedIn
+,
+Instagram
+.
+Having trouble viewing this message?
+View it as a webpage
+.
+You are subscribed to updates from the
+Cybersecurity and Infrastructure Security Agency
+(CISA)
+Manage Subscriptions
+|
+Privacy Policy
+|
+Help
+Connect with CISA:
+Facebook
+|
+Twitter
+|
+Instagram
+|
+LinkedIn
+|
+YouTube
+Powered by
+Privacy Policy
+|
+Cookie Statement
+|
+Help

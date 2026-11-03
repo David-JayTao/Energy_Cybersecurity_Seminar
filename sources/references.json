@@ -1,0 +1,218 @@
+{
+  "R01": {
+    "title": "Guide to Operational Technology (OT) Security, NIST SP 800-82 Rev.3",
+    "author": "Stouffer等 / NIST",
+    "year": "2023",
+    "url": "https://doi.org/10.6028/NIST.SP.800-82r3",
+    "where": "第2章；第4–6章；附录B",
+    "support": "OT定义、架构、性能约束、分层防御与恢复",
+    "limit": "已下载全文。使用正式Rev.3；发布页显示2026-09-21已有Rev.4初始公开草案，草案不是已生效正式修订版。"
+  },
+  "R02": {
+    "title": "Analysis of the Cyber Attack on the Ukrainian Power Grid",
+    "author": "E-ISAC / SANS ICS",
+    "year": "2016",
+    "url": "https://www.sans.org/go/ics-defense-use-cases-duc",
+    "where": "DUC 5；PDF第4–9、11–15页；正文页1–9",
+    "support": "2015年事件、约225000客户、远程控制与恢复受阻",
+    "limit": "已沿机构页面下载29页原报告。是研究分析，不能将推断写成独立官方取证；不同企业细节不可拼成单一真实拓扑。"
+  },
+  "R03": {
+    "title": "Section 2(e): Assessment of Electricity Disruption Incident Response Capabilities",
+    "author": "美国DOE / DHS",
+    "year": "2017",
+    "url": "https://www.cisa.gov/sites/default/files/publications/EO13800-electricity-subsector-report.pdf",
+    "where": "封面2017-08-09；正文第6页（PDF第15页）Text Box 1",
+    "support": "2015年3家配电公司、225000客户、停电1–6小时",
+    "limit": "已下载并核验封面、案例框；1–6小时是不同受影响区域范围，不代表每户停电6小时。"
+  },
+  "R04": {
+    "title": "Attacks on Ukraine’s Electric Grid: Insights for U.S. Infrastructure Security and Resilience, R48067",
+    "author": "美国国会研究处 CRS",
+    "year": "2024",
+    "url": "https://www.congress.gov/crs_external_products/R/PDF/R48067/R48067.12.pdf",
+    "where": "正文第4–5页，Cyber Effects",
+    "support": "2015/2016区别及2016后续保护系统分析",
+    "limit": "已下载，封面为2024-05-17；后续研究综合，保护破坏意图不等于已发生设备损坏。"
+  },
+  "R05": {
+    "title": "Industroyer: Biggest threat to industrial control systems since Stuxnet",
+    "author": "Robert Lipovsky、Anton Cherepanov / ESET",
+    "year": "2017",
+    "url": "https://www.welivesecurity.com/2017/06/12/industroyer-biggest-threat-industrial-control-systems-since-stuxnet/",
+    "where": "文章Summary与协议载荷说明",
+    "support": "2016相关恶意软件的工业协议能力",
+    "limit": "2017文章对其与停电联系使用高概率判断，需与后续回顾区分。"
+  },
+  "R06": {
+    "title": "Industroyer: A cyber-weapon that brought down a power grid",
+    "author": "André Lameiras / ESET",
+    "year": "2022",
+    "url": "https://www.welivesecurity.com/2022/06/13/industroyer-cyber-weapon-brought-down-power-grid/",
+    "where": "开篇及A ticking bomb",
+    "support": "2016-12-17基辅部分地区约1小时停电及后续回顾",
+    "limit": "已核对公开原文或发布机构页面；访问日期2026-11-03。"
+  },
+  "R07": {
+    "title": "Cyber Threats in the Pipeline: Using Lessons from the Colonial Ransomware Attack to Defend Critical Infrastructure",
+    "author": "美国众议院国土安全委员会；Blount与Carmakal证词",
+    "year": "2021",
+    "url": "https://www.govinfo.gov/content/pkg/CHRG-117hhrg45085/html/CHRG-117hhrg45085.htm",
+    "where": "2021-06-09听证；Blount prepared statement；Carmakal关于legacy VPN及MFA答问",
+    "support": "IT勒索、主动停运、5月12日重启、遗留VPN未要求MFA",
+    "limit": "已保存完整HTML。证词是具名陈述；准确密码获取路径未完全确定，不将猜测写成事实。"
+  },
+  "R08": {
+    "title": "Cyberattack halts fuel movement on Colonial petroleum pipeline",
+    "author": "美国能源信息署 EIA",
+    "year": "2021",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=47917",
+    "where": "2021-05-11正文",
+    "support": "5月7日停运、约5500英里、250万桶/日系统规模",
+    "limit": "吞吐能力/系统规模不是实际损失量；不乘停运天数推算总损失。"
+  },
+  "R09": {
+    "title": "Critical Infrastructure Protection: TSA Is Taking Steps to Address Some Pipeline Security Program Weaknesses, GAO-21-105263",
+    "author": "美国政府问责局 GAO",
+    "year": "2021",
+    "url": "https://www.gao.gov/products/gao-21-105263",
+    "where": "What GAO Found",
+    "support": "Colonial业务系统勒索与管道网络安全治理",
+    "limit": "已核对公开原文或发布机构页面；访问日期2026-11-03。"
+  },
+  "R10": {
+    "title": "Colonial Pipeline Cyber Incident",
+    "author": "美国能源部 DOE",
+    "year": "2021",
+    "url": "https://www.energy.gov/ceser/colonial-pipeline-cyber-incident",
+    "where": "跨部门响应与Status Updates",
+    "support": "运输豁免、燃料供应协调、恢复是跨组织过程",
+    "limit": "原企业状态链接已重定向；重启日期以听证证词交叉核查。"
+  },
+  "R11": {
+    "title": "Cybersecurity Considerations for Distributed Energy Resources on the U.S. Electric Grid（发布说明）",
+    "author": "美国能源部 DOE",
+    "year": "2022",
+    "url": "https://www.energy.gov/ceser/articles/doe-cybersecurity-report-provides-recommendations-secure-distributed-clean-energy",
+    "where": "2022-10-06发布说明",
+    "support": "光伏、储能等DER增长及风险取决于规模和电网条件",
+    "limit": "引用发布说明支持方向性判断，不将2022年预测当2026年实测。"
+  },
+  "R12": {
+    "title": "IEC 62443-3-2:2020 — Security risk assessment for system design",
+    "author": "国际电工委员会 IEC",
+    "year": "2020",
+    "url": "https://webstore.iec.ch/en/publication/30727",
+    "where": "官方产品Scope摘要",
+    "support": "系统边界、区域与通道、风险评估、目标安全等级",
+    "limit": "仅核验官方公开范围摘要，未获取付费全文，不声称逐条审阅或满足认证。"
+  },
+  "R13": {
+    "title": "IEC 62351 — Cyber Security Series for the Smart Grid",
+    "author": "IEC SyC Smart Energy",
+    "year": "动态页面",
+    "url": "https://syc-se.iec.ch/deliveries/cybersecurity-guidelines/security-standards-and-best-practices/iec-62351/",
+    "where": "Overview；协议对应及RBAC/密钥管理说明",
+    "support": "电力通信安全、身份权限与密钥管理",
+    "limit": "官方范围说明；系列各部分版本不同，不能称为单一2026版标准。"
+  },
+  "R14": {
+    "title": "ICS Matrix, MITRE ATT&CK",
+    "author": "MITRE",
+    "year": "动态知识库",
+    "url": "https://attack.mitre.org/matrices/ics/",
+    "where": "Initial Access、Impair Process Control、Impact等栏目",
+    "support": "行为分类与防御覆盖梳理",
+    "limit": "仅作分析语言，不是强制法规、自动风险评分或严格线性攻击步骤。"
+  },
+  "R15": {
+    "title": "电力监控系统安全防护规定（国家发展改革委令第27号）",
+    "author": "国家发展改革委 / 国家能源局",
+    "year": "2024，2025-01-01施行",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202412/t20241211_1394960.html",
+    "where": "附件第2–8条及附则",
+    "support": "境内适用对象；四原则；安全分区；专用网络；安全接入区",
+    "limit": "已下载10页正文；不把通用工业DMZ图当作中国电力监控系统合规设计。"
+  },
+  "R16": {
+    "title": "电力行业网络安全管理办法，国能发安全规〔2022〕100号",
+    "author": "国家能源局",
+    "year": "2022",
+    "url": "https://zfxxgk.nea.gov.cn/2022-11/16/c_1310683245.htm",
+    "where": "通知及附件",
+    "support": "电力行业网络安全责任与管理框架",
+    "limit": "已核验发布通知；本材料不对具体企业作合规审计结论。"
+  },
+  "R17": {
+    "title": "电力网络安全事件应急预案",
+    "author": "国家能源局",
+    "year": "2024",
+    "url": "https://zfxxgk.nea.gov.cn/2024-05/16/c_1310777555.htm",
+    "where": "通知及应急预案",
+    "support": "电力网络安全事件组织响应",
+    "limit": "预案发布时引用2014版防护规定；本材料另以2024年第27号令更新现行防护规定。"
+  },
+  "R18": {
+    "title": "Anomaly Detection for a Water Treatment System Using Unsupervised Machine Learning",
+    "author": "Jun Inoue、Yoriyuki Yamagata、Yuqi Chen、Christopher M. Poskitt、Jun Sun",
+    "year": "2017",
+    "url": "https://cposkitt.github.io/files/publications/Inoue-et_al.DMCIS.2017.pdf",
+    "where": "PDF第1、6–7页；Table II；Section VII",
+    "support": "SWaT试验台；DNN与单类SVM精确率、召回率及局限",
+    "limit": "全文及表格已核对。DNN按日志项、SVM按窗口计数，非完全同口径；水处理试验台不是电网现场。本组未复现实验。"
+  },
+  "R19": {
+    "title": "Online Dynamic Cyber-Attack Diagnosis in Power Electronics Systems Based on Few-Shot Learning",
+    "author": "Qi Li等",
+    "year": "2024",
+    "url": "https://doi.org/10.1109/PESGM51994.2024.10689030",
+    "where": "作者全文PDF第1页及System Modeling、实验部分",
+    "support": "少样本学习与太阳能电站仿真案例",
+    "limit": "全文由https://par.nsf.gov/servlets/purl/10579916取得。摘要报告训练样本小于对比方法0.04%；不等于所有训练成本减少99.96%，也不是现场部署成绩。"
+  },
+  "R20": {
+    "title": "Artificial intelligence tools secure tomorrow’s electric grid",
+    "author": "美国橡树岭国家实验室 ORNL",
+    "year": "2024，页面2026更新",
+    "url": "https://www.ornl.gov/news/artificial-intelligence-tools-secure-tomorrows-electric-grid",
+    "where": "AI-PhyX项目介绍",
+    "support": "电力网络安全AI研究方向与物理信息结合",
+    "limit": "项目介绍证明研究正在推进，不证明已规模化投运或给出独立效果评估。"
+  },
+  "R21": {
+    "title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile, NIST AI 600-1",
+    "author": "Autio等 / NIST",
+    "year": "2024",
+    "url": "https://doi.org/10.6028/NIST.AI.600-1",
+    "where": "公开发布页及风险分类",
+    "support": "大模型可信性、评测和人类监督",
+    "limit": "用于跨行业风险背景，不当作电力调控自动化许可。"
+  },
+  "R22": {
+    "title": "Principles for the Secure Integration of Artificial Intelligence in Operational Technology",
+    "author": "CISA、ASD ACSC、NSA等联合机构",
+    "year": "2025",
+    "url": "https://www.cyber.gov.au/sites/default/files/2025-12/principles-for-the-secure-integration-of-artificial-intelligence-in-operational-technology.pdf",
+    "where": "2025-12-03；原则1–4；生命周期章节",
+    "support": "理解AI、评估业务风险、治理与全生命周期监督",
+    "limit": "已通过网页工具核验25页公开PDF；本地下载超时。这是指导原则，不提供模型在特定电网的性能保证。"
+  },
+  "R23": {
+    "title": "Principles of operational technology cyber security",
+    "author": "ASD ACSC / CISA等联合机构",
+    "year": "2024",
+    "url": "https://www.cyber.gov.au/publication/principles-of-operational-technology-cyber-security",
+    "where": "六项原则",
+    "support": "安全优先、分隔、供应链和人员责任",
+    "limit": "已核对公开原文或发布机构页面；访问日期2026-11-03。"
+  },
+  "R24": {
+    "title": "CISA and U.S. Government Partners Unveil Guide to Accelerate Zero Trust Adoption in Operational Technology",
+    "author": "CISA官方公告",
+    "year": "2026",
+    "url": "https://content.govdelivery.com/accounts/USDHSCISA/bulletins/4151784",
+    "where": "2026-04-29公告",
+    "support": "OT零信任适配、资产可见性与身份管理",
+    "limit": "核验官方公告而非指南全文；使用原则性结论，不引用未核验条文。"
+  }
+}

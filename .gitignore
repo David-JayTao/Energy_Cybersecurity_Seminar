@@ -1,0 +1,18 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Browser profiles created by local figure checks
+render_profiles/
+mermaid_profile/
+.artifact_preview_cache/
+
+# OS and editor temporary files
+Thumbs.db
+.DS_Store
+~$*
+*.tmp

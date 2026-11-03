@@ -1,0 +1,210 @@
+IEC 62443-3-2:2020 | IEC
+JavaScript seems to be disabled in your browser.
+For the best experience on our site, be sure to turn on Javascript in your browser.
+Skip to content
+International
+Electrotechnical
+Commission
+Log in
+Log in
+Create an account
+Cart
+Help
+Products
+Products
+Value-added products
+Value-added products
+Consolidated version (CSV)
+Redline version (RLV)
+Commented version (CMV)
+Extended version (EXV)
+Pre-release version (PRV)
+Pack versions (PAC)
+Test report form (TRF)
+Products by technical area
+Products by technical area
+Company organization
+Electrical
+Electronics
+Energy
+Health
+Information technology
+Manufacturing
+Others
+Telecommunications
+Terminology and metrology
+Testing
+Transportation
+All products
+Just Published
+Just Published
+Past month
+Past 2 weeks
+Past week
+Past day
+Bestsellers
+My cart
+Cart is empty
+Price
+Subtotal:
+Proceed to checkout
+View or edit cart
+Loading...
+x
+Checkout using your account
+If you have a Webstore account but are using this version for the first time, please use
+Forgot password
+to choose a new password.
+Email address
+Password
+Log in
+Forgot your password?
+New customers
+Your IEC benefits:
+check
+Favorites list
+check
+Easy access to purchased standards and related invoice
+check
+Track status of your standards library
+Create an account
+Products
+Value-added products
+Products by technical area
+All products
+See all
+See all
+Just Published
+Past month
+Past 2 weeks
+Past week
+Past day
+See all
+See all
+Bestsellers
+Search
+Suggestions
+Search
+​
+IT security
+Manufacturing
+Share by email
+Main image
+Click to view image in fullscreen
+search
+IEC 62443-3-2
+IEC 62443-3-2:2020
+Security for industrial automation and control systems - Part 3-2: Security risk assessment for system design
+IEC 62443-3-2:2020 establishes requirements for:
+• defining a system under consideration (SUC) for an industrial automation and control system (IACS);
+• partitioning the SUC into zones and conduits;
+• assessing risk for each zone and conduit;
+• establishing the target security level (SL-T) for each zone and conduit; and
+• documenting the security requirements.
+Show more
+Show less
+BASE PUBLICATION
+Language
+-- Please select --
+English
+English/French
+Spanish
+Format
+-- Please select --
+Electronic
+Hardcopy
+User
+Do you need a multi-user copy?
+1
+-- Please select --
+1
+2 - 3
+4 - 5
+6 - 10
+11 - 15
+16 - 20
+CHF 260.-
+Add to cart
+mail
+Share by email
+Product detail
+Lifecycle
+Normative references
+Referenced by
+Product detail
+Lifecycle
+Normative references
+Referenced by
+Technical committee
+TC 65 Industrial-process measurement, control and automation
+Publication type
+International Standard
+Publication date
+2020-06-24
+Edition
+1.0
+ICS
+25.040.40
+35.030
+Stability date
+2027
+ISBN number
+9782832286135
+Pages
+31
+File size
+1.86 MB
+Under development
+No description available for this stage code.
+History
+Edition
+Date
+Publication
+Edition
+Status
+Related publications
+Show all publications
+Show less
+Secured payment
+Visa
+Mastercard
+AMEX
+JCB
+Union Pay
+Paypal
+Bank transfer
+Several payment methods
+Multilingual customer service support
+Newsletter
+Stay up to date with the free IEC Just Published newsletter. This email will be sent on the 1st each month and will contain all publications issued the previous month.
+Newsletter
+Email address
+Subscribe
+exclamation-circle
+Follow us
+IEC
+International
+Electrotechnical
+Commission
+Founded in 1906, the IEC (International Electrotechnical Commission) is the world’s leading organization for the preparation and publication of international standards for all electrical, electronic and related technologies.
+International Standards facilitate technical innovation, efficient and sustainable energy access, smart urbanization and transportation systems, climate change mitigation, and increases the safety of people and the environment.
+Associated sites
+IEC website
+IEC e-tech magazine
+IEC mapping platform
+IEC products and services portal
+Information
+FAQ
+Terms & conditions
+Privacy policy
+Cookie policy
+Customer service
+3 rue de Varembé
+PO Box 131
+CH-1211 Geneva 20
+Switzerland
+Contact us
+Copyright
+©
+IEC
+2026. All rights reserved
