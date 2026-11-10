@@ -1,0 +1,17 @@
+[
+  {
+    "file": "01_汪雨航_系统架构与安全风险/图表素材/第一部分_风险来源_思维脉络.mmd",
+    "ok": true,
+    "sha256": "1e51c4fa68e09968393eb174bc4ecc5656981a7d104e7ef18093988fcad7475a",
+    "validation_date": "2026-11-10",
+    "runtime": "05_质量验收/mermaid.min.js",
+    "svg_xml_valid": true,
+    "svg_text_nodes": 42,
+    "text_overflow": [],
+    "png_size": [
+      1600,
+      900
+    ],
+    "visual_review": "已目视检查PNG：三列文字、关系线与页脚完整，无裁切或重叠。"
+  }
+]

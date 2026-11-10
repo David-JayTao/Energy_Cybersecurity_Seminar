@@ -502,7 +502,7 @@
       "detail": ""
     },
     {
-      "name": "31组图表载体齐全",
+      "name": "原有及新增图表载体齐全",
       "passed": true,
       "detail": ""
     },
@@ -538,24 +538,13 @@
     }
   ],
   "errors": [],
-  "input_files": [
-    {
-      "file": "能源互联网（计算机）2026研讨安排(1).xlsx",
-      "sha256": "9051802d78cc51afb7f20b6aee44108c0031382de8a6dc88257f6ab9c59315ee",
-      "bytes": 11560
-    },
-    {
-      "file": "课程作业安排26-27.pptx",
-      "sha256": "fa511bada032a17855a0fbac48d74ad7ca57bcf21b4ff279bbda3c809227de32",
-      "bytes": 3604161
-    }
-  ],
+  "input_files": [],
   "counts": {
     "pages": 30,
     "refs": 24,
-    "svg": 31,
-    "png": 31,
-    "mermaid": 31,
+    "svg": 32,
+    "png": 32,
+    "mermaid": 32,
     "csv": 9
   }
 }

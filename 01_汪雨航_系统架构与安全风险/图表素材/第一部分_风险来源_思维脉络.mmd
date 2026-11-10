@@ -1,0 +1,44 @@
+flowchart TB
+  ROOT["能源数字化：连接更多、操作更远、管理更集中<br/>P01–P02：量测 → 显示 → 操作 → 执行 → 反馈"]
+  subgraph A["01 分布式设备大量接入｜P03–P04"]
+    A1["账号、接口、配置或更新疏于管理<br/>分散责任不清，薄弱点未及时处理"]
+    A2["数据被篡改，现场状态被看错<br/>设置被修改，单处出力偏离预期"]
+    A3["主要改变：入口数量与持续管理难度"]
+    A1 --> A2 --> A3
+  end
+  subgraph B["02 运维方式远程化｜P05–P06"]
+    B1["账号被冒用，或维护电脑受控<br/>权限过宽，或检修后仍有效"]
+    B2["以维护身份修改设置或操作设备<br/>权限覆盖越广，可能波及越多站点"]
+    B3["主要改变：可被滥用的操作范围与时间"]
+    B1 --> B2 --> B3
+  end
+  subgraph C["03 调度与管理平台集中化｜P07–P08"]
+    C1["批量控制权限或共同服务失守<br/>多处共用平台、身份或更新渠道"]
+    C2["批量改变出力、充放电或用电<br/>多处共同失去监视、更新等支撑"]
+    C3["主要改变：单次事件范围与同时性"]
+    C1 --> C2 --> C3
+  end
+  ROOT --> A1
+  ROOT --> B1
+  ROOT --> C1
+  COND["P09：异常会不会变成停供，还要看条件<br/>操作是否生效 · 实际功率与同步性 · 连接位置、工况与备用能力 · 运行处置决定"]
+  A3 -.-> COND
+  B3 -.-> COND
+  C3 -.-> COND
+  DIRECT["设备变化路径<br/>异常控制 → 设备状态改变 → 具体供能影响"]
+  DECISION["处置决定路径<br/>信息或业务受损 → 隔离与安全确认 → 主动停运"]
+  COND -.-> DIRECT
+  COND -.-> DECISION
+  HANDOFF["P10交给第二部分求证<br/>入口 → 边界 → 控制变化 → 实际后果 → 可信恢复"]
+  DIRECT --> HANDOFF
+  DECISION --> HANDOFF
+  classDef root fill:#17324d,color:#fff,stroke:#17324d;
+  classDef blue fill:#edf4fb,color:#17324d,stroke:#759fc3;
+  classDef teal fill:#edf8f5,color:#17324d,stroke:#63a493;
+  classDef purple fill:#f3effa,color:#17324d,stroke:#a294c5;
+  classDef condition fill:#fff6e8,color:#17324d,stroke:#d4af6e;
+  class ROOT,HANDOFF root;
+  class A1,A2,A3 blue;
+  class B1,B2,B3 teal;
+  class C1,C2,C3 purple;
+  class COND condition;

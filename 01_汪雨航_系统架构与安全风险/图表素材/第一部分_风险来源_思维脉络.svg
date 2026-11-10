@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title description">
+<title id="title">汪雨航：能源系统架构与风险来源的思维脉络</title>
+<desc id="description">从分布式设备接入、运维远程化、平台集中化三项变化，分别说明失守环节、异常表现和风险变化，再结合运行条件区分设备变化与处置决定两条影响路径，交给第二部分五问求证。实线表示论述关系，虚线表示后果成立仍需判断条件，不表示停供必然发生。</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#7f98ad"/></marker>
+</defs>
+<rect width="1600" height="900" fill="#ffffff"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+<text x="56" y="54" font-size="32" font-weight="700" fill="#17324d" text-anchor="start" data-bounds="48,15,1504,52">能源与网络安全｜第一部分的思维脉络</text>
+<text x="58" y="87" font-size="18" font-weight="400" fill="#527189" text-anchor="start" data-bounds="48,62,1504,32">汪雨航 · P01–P10 · 从三个发展变化解释风险来源，再交给真实案例求证</text>
+<rect x="420" y="110" width="760" height="64" rx="12" fill="#17324d" stroke="none"/>
+<text x="800" y="137" font-size="23" font-weight="700" fill="#ffffff" text-anchor="middle" data-bounds="436,114,728,32">能源数字化：连接更多、操作更远、管理更集中</text>
+<text x="800" y="161" font-size="17" font-weight="400" fill="#d4e5f2" text-anchor="middle" data-bounds="436,140,728,30">P01–P02｜量测 → 显示 → 操作 → 执行 → 反馈</text>
+<path d="M800 174 V192 H288 V207" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M800 174 V207" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M800 174 V192 H1312 V207" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="56" y="210" width="464" height="62" rx="12" fill="#376d9c" stroke="none"/>
+<text x="76" y="238" font-size="23" font-weight="700" fill="#ffffff" text-anchor="start" data-bounds="68,214,440,31">01  分布式设备大量接入</text>
+<text x="76" y="261" font-size="17" font-weight="400" fill="#ffffff" text-anchor="start" data-bounds="68,242,440,27">P03–P04｜需要守住的门更多</text>
+<path d="M288 272 V287" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="56" y="290" width="464" height="80" rx="12" fill="#edf4fb" stroke="#c2d5e6"/>
+<text x="76" y="311" font-size="14" font-weight="700" fill="#376d9c" text-anchor="start" data-bounds="68,294,440,24">哪里可能失守</text>
+<text x="76" y="337" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="68,316,440,50">账号、接口、配置或更新疏于管理</text>
+<text x="76" y="362" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="68,316,440,50">分散责任不清，薄弱点未及时处理</text>
+<path d="M288 370 V387" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="56" y="390" width="464" height="96" rx="12" fill="#ffffff" stroke="#c2d5e6"/>
+<text x="76" y="413" font-size="14" font-weight="700" fill="#376d9c" text-anchor="start" data-bounds="68,394,440,26">会出现什么异常</text>
+<text x="76" y="442" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="68,420,440,60">数据被篡改，现场状态被看错</text>
+<text x="76" y="470" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="68,420,440,60">设置被修改，单处出力偏离预期</text>
+<path d="M288 486 V503" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="56" y="506" width="464" height="62" rx="12" fill="#edf4fb" stroke="#c2d5e6"/>
+<text x="76" y="527" font-size="14" font-weight="700" fill="#376d9c" text-anchor="start" data-bounds="68,510,440,24">这个因素怎样改变风险</text>
+<text x="76" y="553" font-size="22" font-weight="700" fill="#376d9c" text-anchor="start" data-bounds="68,530,440,34">入口数量与持续管理难度</text>
+<rect x="568" y="210" width="464" height="62" rx="12" fill="#237d69" stroke="none"/>
+<text x="588" y="238" font-size="23" font-weight="700" fill="#ffffff" text-anchor="start" data-bounds="580,214,440,31">02  运维方式远程化</text>
+<text x="588" y="261" font-size="17" font-weight="400" fill="#ffffff" text-anchor="start" data-bounds="580,242,440,27">P05–P06｜维修钥匙交到了远处</text>
+<path d="M800 272 V287" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="568" y="290" width="464" height="80" rx="12" fill="#edf8f5" stroke="#b9dcd1"/>
+<text x="588" y="311" font-size="14" font-weight="700" fill="#237d69" text-anchor="start" data-bounds="580,294,440,24">哪里可能失守</text>
+<text x="588" y="337" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="580,316,440,50">账号被冒用，或维护电脑受控</text>
+<text x="588" y="362" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="580,316,440,50">权限过宽，或检修后仍有效</text>
+<path d="M800 370 V387" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="568" y="390" width="464" height="96" rx="12" fill="#ffffff" stroke="#b9dcd1"/>
+<text x="588" y="413" font-size="14" font-weight="700" fill="#237d69" text-anchor="start" data-bounds="580,394,440,26">会出现什么异常</text>
+<text x="588" y="442" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="580,420,440,60">以维护身份修改设置或操作设备</text>
+<text x="588" y="470" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="580,420,440,60">权限覆盖越广，可能波及越多站点</text>
+<path d="M800 486 V503" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="568" y="506" width="464" height="62" rx="12" fill="#edf8f5" stroke="#b9dcd1"/>
+<text x="588" y="527" font-size="14" font-weight="700" fill="#237d69" text-anchor="start" data-bounds="580,510,440,24">这个因素怎样改变风险</text>
+<text x="588" y="553" font-size="22" font-weight="700" fill="#237d69" text-anchor="start" data-bounds="580,530,440,34">可被滥用的操作范围与时间</text>
+<rect x="1080" y="210" width="464" height="62" rx="12" fill="#7a5aab" stroke="none"/>
+<text x="1100" y="238" font-size="23" font-weight="700" fill="#ffffff" text-anchor="start" data-bounds="1092,214,440,31">03  调度与管理平台集中化</text>
+<text x="1100" y="261" font-size="17" font-weight="400" fill="#ffffff" text-anchor="start" data-bounds="1092,242,440,27">P07–P08｜分散设备共用总控台</text>
+<path d="M1312 272 V287" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="1080" y="290" width="464" height="80" rx="12" fill="#f3effa" stroke="#d2c5e6"/>
+<text x="1100" y="311" font-size="14" font-weight="700" fill="#7a5aab" text-anchor="start" data-bounds="1092,294,440,24">哪里可能失守</text>
+<text x="1100" y="337" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="1092,316,440,50">批量控制权限或共同服务失守</text>
+<text x="1100" y="362" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="1092,316,440,50">多处共用平台、身份或更新渠道</text>
+<path d="M1312 370 V387" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="1080" y="390" width="464" height="96" rx="12" fill="#ffffff" stroke="#d2c5e6"/>
+<text x="1100" y="413" font-size="14" font-weight="700" fill="#7a5aab" text-anchor="start" data-bounds="1092,394,440,26">会出现什么异常</text>
+<text x="1100" y="442" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="1092,420,440,60">批量改变出力、充放电或用电</text>
+<text x="1100" y="470" font-size="20" font-weight="400" fill="#17324d" text-anchor="start" data-bounds="1092,420,440,60">多处共同失去监视、更新等支撑</text>
+<path d="M1312 486 V503" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="1080" y="506" width="464" height="62" rx="12" fill="#f3effa" stroke="#d2c5e6"/>
+<text x="1100" y="527" font-size="14" font-weight="700" fill="#7a5aab" text-anchor="start" data-bounds="1092,510,440,24">这个因素怎样改变风险</text>
+<text x="1100" y="553" font-size="22" font-weight="700" fill="#7a5aab" text-anchor="start" data-bounds="1092,530,440,34">单次事件的范围与同时性</text>
+<path d="M288 568 V590 H800 V612" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<path d="M800 568 V612" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<path d="M1312 568 V590 H800" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5"/>
+<rect x="56" y="616" width="1488" height="78" rx="12" fill="#fff6e8" stroke="#dfc28f"/>
+<text x="800" y="645" font-size="23" font-weight="700" fill="#785324" text-anchor="middle" data-bounds="72,620,1456,34">P09｜异常会不会变成停供，还要看这些条件</text>
+<text x="800" y="675" font-size="20" font-weight="400" fill="#785324" text-anchor="middle" data-bounds="72,650,1456,36">操作是否生效 · 实际功率与同步性 · 连接位置、工况与备用能力 · 运行处置决定</text>
+<path d="M800 694 V704 H420 V713" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<path d="M800 694 V704 H1180 V713" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5" marker-end="url(#arrow)"/>
+<rect x="56" y="716" width="728" height="62" rx="12" fill="#edf4f9" stroke="#c2d5e6"/>
+<rect x="816" y="716" width="728" height="62" rx="12" fill="#edf4f9" stroke="#c2d5e6"/>
+<text x="420" y="741" font-size="21" font-weight="700" fill="#17324d" text-anchor="middle" data-bounds="68,720,704,28">设备变化路径</text>
+<text x="420" y="766" font-size="19" font-weight="400" fill="#17324d" text-anchor="middle" data-bounds="68,744,704,30">异常控制 → 设备状态改变 → 具体供能影响</text>
+<text x="1180" y="741" font-size="21" font-weight="700" fill="#17324d" text-anchor="middle" data-bounds="828,720,704,28">处置决定路径</text>
+<text x="1180" y="766" font-size="19" font-weight="400" fill="#17324d" text-anchor="middle" data-bounds="828,744,704,30">信息或业务受损 → 隔离与安全确认 → 主动停运</text>
+<path d="M420 778 V792 H800 V803" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M1180 778 V792 H800" fill="none" stroke="#7f98ad" stroke-width="2" stroke-linejoin="round"/>
+<rect x="56" y="806" width="1488" height="54" rx="12" fill="#17324d" stroke="none"/>
+<text x="800" y="841" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" data-bounds="72,810,1456,46">P10交给第二部分：入口 → 边界 → 控制变化 → 实际后果 → 可信恢复</text>
+<text x="56" y="885" font-size="14" font-weight="400" fill="#657a8d" text-anchor="start" data-bounds="48,865,1504,30">本组重绘教学示意｜实线：论述关系；虚线：需判断的后果条件｜依据：聚焦版提纲所列资料｜2026-11-10</text>
+</g></svg>

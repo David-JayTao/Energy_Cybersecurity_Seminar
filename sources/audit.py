@@ -26,13 +26,20 @@ check('每人讲稿超过3000汉字',all(x['han']>=3000 for x in stats))
 qa=(ROOT/'04_全组资料/高质量答辩问题与答案.md').read_text(encoding='utf-8')
 check('至少15个答辩题且包含主答简答详答证据',len(re.findall(r'^## Q\d+',qa,re.M))>=15 and all(qa.count(x)>=30 for x in ['主答：','30秒内回答','进一步解释','证据：']))
 svgs=list(ROOT.glob('0[123]_*/图表素材/*.svg'));pngs=list(ROOT.glob('0[123]_*/图表素材/*.png'));mmd=list(ROOT.glob('0[123]_*/图表素材/*.mmd'));csvs=list(ROOT.glob('0[123]_*/图表素材/*.csv'))
-check('31组图表载体齐全',len(svgs)==len(pngs)==len(mmd)==31)
+svg_groups={p.relative_to(ROOT).with_suffix('').as_posix() for p in svgs}
+png_groups={p.relative_to(ROOT).with_suffix('').as_posix() for p in pngs}
+mmd_groups={p.relative_to(ROOT).with_suffix('').as_posix() for p in mmd}
+check('原有及新增图表载体齐全',len(svg_groups)>=31 and svg_groups==png_groups==mmd_groups)
 for p in svgs:
     try:E.parse(p)
     except Exception as e:errors.append(str(p)+str(e))
 check('9份表格CSV',len(csvs)==9)
 mer=json.loads((ROOT/'05_质量验收/mermaid_validation.json').read_text(encoding='utf-8'))
-check('Mermaid实际解析',len(mer)==31 and all(x['ok'] for x in mer))
+supplement_path=ROOT/'05_质量验收/补充Mermaid验证.json'
+supplement=json.loads(supplement_path.read_text(encoding='utf-8')) if supplement_path.exists() else []
+supplement_ids={x['file'].replace('\\','/').rsplit('.',1)[0] for x in supplement}
+supplement_hashes=all((ROOT/x['file']).is_file() and hashlib.sha256((ROOT/x['file']).read_bytes()).hexdigest()==x.get('sha256') for x in supplement)
+check('Mermaid实际解析',len(mer)==31 and len(mer)+len(supplement)==len(mmd) and all(x['ok'] for x in mer+supplement) and len(supplement_ids)==len(supplement) and supplement_ids<=mmd_groups and supplement_hashes)
 check('没有生成PPT或PPTX',not list(ROOT.rglob('*.pptx')) and not list(ROOT.rglob('*.ppt')))
 broken=[]
 for p in ROOT.rglob('*.md'):
