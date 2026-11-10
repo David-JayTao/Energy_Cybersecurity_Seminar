@@ -1,1 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#447394"/></marker></defs><rect width="1600" height="900" fill="white"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif"><text x="60" y="65" font-size="34" fill="#17324d" text-anchor="start">P17  2016乌克兰：从人工操作到协议化自动操作</text><text x="60" y="115" font-size="25" fill="#527189" text-anchor="start">恶意软件能力、攻击意图和实际后果要分别描述。</text><rect x="65.0" y="300" width="310.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="85.0" y="338" font-size="25" fill="#17324d" text-anchor="start">样本协议能力</text><text x="80.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">01</text><rect x="410.0" y="300" width="310.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="430.0" y="338" font-size="25" fill="#17324d" text-anchor="start">可能攻击目的</text><text x="425.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">02</text><rect x="755.0" y="300" width="310.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="775.0" y="338" font-size="25" fill="#17324d" text-anchor="start">已确认局部停电</text><text x="770.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">03</text><rect x="1100.0" y="300" width="310.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1120.0" y="338" font-size="25" fill="#17324d" text-anchor="start">恢复与保护核验</text><text x="1115.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">04</text><text x="70" y="580" font-size="25" fill="#17324d" text-anchor="start">无充分证据时，不声称已造成设备物理毁坏</text><text x="60" y="850" font-size="19" fill="#657a8d" text-anchor="start">来源：R04 / R05 / R06  ｜本组重绘示意；完整书目与证据边界见逐页材料。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><title>P17 同样的控制入侵，影响范围为什么可能不同？</title><desc>三行条件矩阵，分别映射操作范围、实际失电范围、恢复时间；明确为本组分析，无虚构分值或概率。</desc>
+<defs><marker id="blue" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#246ca6"/></marker><marker id="orange" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b95822"/></marker><marker id="green" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#16826c"/></marker><marker id="gray" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#637383"/></marker><marker id="red" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b43a42"/></marker></defs>
+<rect width="1600" height="900" fill="#fafcfd"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif} .body{font-size:26px}</style>
+<text x="64" y="55.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">能源 × 网络安全  /  刘酝潇  /  P17</text>
+<text x="64" y="115.0" font-size="38" fill="#173044" font-weight="700" text-anchor="start">同样的控制入侵，影响范围为什么可能不同？</text>
+<text x="64" y="160.0" font-size="24" fill="#637383" font-weight="400" text-anchor="start">本组工程分析｜三个观察方向分别解释作用范围、供电后果和恢复速度</text>
+<line x1="64" y1="812" x2="1536" y2="812" stroke="#637383" stroke-width="1"/>
+<text x="64" y="848.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">来源：R01 / R02  ·  完整定位见逐页文案与本部分书目</text>
+<text x="64" y="879.0" font-size="18" fill="#637383" font-weight="400" text-anchor="start">2026-11-10  ·  本组重绘；图中比例不代表时间、概率或电气容量</text>
+<rect x="64" y="235" width="310" height="132" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="86" y="278.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">操作权限</text>
+<text x="86" y="321.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">需按具体系统核实</text>
+<rect x="430" y="235" width="640" height="132" rx="14" fill="white" stroke="#637383" stroke-width="2"/>
+<text x="452" y="278.0" font-size="27" fill="#637383" font-weight="700" text-anchor="start">只能查看／可操作单站／可操作多站</text>
+<text x="452" y="321.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">不同条件可能改变同一异常操作的后果</text>
+<rect x="1130" y="235" width="406" height="132" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1152" y="278.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">观察结果</text>
+<text x="1152" y="321.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">决定可能被改变的对象范围</text>
+<line x1="374" y1="300" x2="428" y2="300" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="1070" y1="300" x2="1128" y2="300" stroke="#637383" stroke-width="3" marker-end="url(#gray)"/>
+<rect x="64" y="410" width="310" height="132" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="86" y="453.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">供电条件</text>
+<text x="86" y="496.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">需按具体系统核实</text>
+<rect x="430" y="410" width="640" height="132" rx="14" fill="white" stroke="#637383" stroke-width="2"/>
+<text x="452" y="453.0" font-size="27" fill="#637383" font-weight="700" text-anchor="start">负荷位置、备用路径、可转供容量</text>
+<text x="452" y="496.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">不同条件可能改变同一异常操作的后果</text>
+<rect x="1130" y="410" width="406" height="132" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1152" y="453.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">观察结果</text>
+<text x="1152" y="496.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">影响实际失电范围与持续时间</text>
+<line x1="374" y1="475" x2="428" y2="475" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="1070" y1="475" x2="1128" y2="475" stroke="#637383" stroke-width="3" marker-end="url(#gray)"/>
+<rect x="64" y="585" width="310" height="132" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="86" y="628.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">恢复能力</text>
+<text x="86" y="671.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">需按具体系统核实</text>
+<rect x="430" y="585" width="640" height="132" rx="14" fill="white" stroke="#637383" stroke-width="2"/>
+<text x="452" y="628.0" font-size="27" fill="#637383" font-weight="700" text-anchor="start">可信通信、现场人员、可用操作工具</text>
+<text x="452" y="671.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">不同条件可能改变同一异常操作的后果</text>
+<rect x="1130" y="585" width="406" height="132" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1152" y="628.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">观察结果</text>
+<text x="1152" y="671.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">影响发现、处置与恢复速度</text>
+<line x1="374" y1="650" x2="428" y2="650" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="1070" y1="650" x2="1128" y2="650" stroke="#637383" stroke-width="3" marker-end="url(#gray)"/>
+<text x="64" y="761.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">不提供虚构概率或评分；入侵范围、停电范围、停电时长不能相互替代。</text>
+</svg>

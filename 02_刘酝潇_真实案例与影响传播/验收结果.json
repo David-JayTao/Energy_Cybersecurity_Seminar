@@ -1,0 +1,463 @@
+{
+  "passed": true,
+  "check_count": 90,
+  "stats": {
+    "han": 3381,
+    "characters": 3687,
+    "units": 3386,
+    "seconds": 803
+  },
+  "checks": [
+    {
+      "name": "P11-P20十页",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P11图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P12图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P13图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P14图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P15图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P16图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P17图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P18图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P19图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20完整页面模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20讲稿一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20事实正文对应",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20字数和计时",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20引用有完整书目",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20SVG与PNG有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "P20图题与正文一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "合计统计一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "中央估时12至14分钟",
+      "passed": true,
+      "detail": "{'han': 3381, 'characters': 3687, 'units': 3386, 'seconds': 803}"
+    },
+    {
+      "name": "口播包含开场和结尾",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "所需补充材料齐全",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "13个知识点含六项解释",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Markdown相对链接有效",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "无编码替换或占位符",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "10组图及4CSV齐全",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Mermaid实际解析通过",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "SVG文本未超出画布",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PNG对应最新SVG源文件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "无最终PPT文件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "供电例子明确必要条件",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "图示不冒充现场拓扑",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Colonial保留运营方主语",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "恢复事实与启示分开",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "改动和新增只在第二部分",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "远程已有提交保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Git差异无空白错误",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "limitation": "自动检查不等于事实或视觉审查；人工阅读和图表目视检查另见事实核查与验收.md。"
+}

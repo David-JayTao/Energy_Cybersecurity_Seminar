@@ -1,0 +1,16 @@
+{
+  "baseline": "2d53334118585c8a86fb8dc932c9eceee22a173d",
+  "outside_files_unchanged": 156,
+  "restored_png": 10,
+  "part2_clean": true,
+  "part2_last_content_commit": "76dfc10299b620db19066968a92b222c41b8ff53",
+  "remote_base_after_sync": "7124ac0bce4ffbc0b4cc3f2a25eb4e56442cd41c",
+  "initial_changes": 44,
+  "tracked_modified": 31,
+  "tracked_png_deleted": 10,
+  "untracked_moved_to_backup": 3,
+  "staged_changes": 0,
+  "unexpected_local_commit": false,
+  "backup_directory": "../part2_recovery_backup_20261110",
+  "date": "2026-11-10"
+}

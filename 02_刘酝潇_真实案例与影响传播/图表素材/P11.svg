@@ -1,1 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#447394"/></marker></defs><rect width="1600" height="900" fill="white"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif"><text x="60" y="65" font-size="34" fill="#17324d" text-anchor="start">P11  三个事件，两种主要影响路径</text><text x="60" y="115" font-size="25" fill="#527189" text-anchor="start">供能中断相似，技术原因可以不同。</text><rect x="60" y="195" width="460.0" height="95" fill="#17324d" stroke="#ccd9e2"/><text x="72" y="225" font-size="22" fill="white" text-anchor="start">事件</text><rect x="520.0" y="195" width="460.0" height="95" fill="#17324d" stroke="#ccd9e2"/><text x="532.0" y="225" font-size="22" fill="white" text-anchor="start">机制重点</text><rect x="980.0" y="195" width="460.0" height="95" fill="#17324d" stroke="#ccd9e2"/><text x="992.0" y="225" font-size="22" fill="white" text-anchor="start">证据类型</text><rect x="60" y="290" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="72" y="320" font-size="22" fill="#17324d" text-anchor="start">2015乌克兰</text><rect x="520.0" y="290" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="532.0" y="320" font-size="22" fill="#17324d" text-anchor="start">远程操作被滥用</text><rect x="980.0" y="290" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="992.0" y="320" font-size="22" fill="#17324d" text-anchor="start">官方综合 / 联合研究</text><rect x="60" y="385" width="460.0" height="95" fill="#ffffff" stroke="#ccd9e2"/><text x="72" y="415" font-size="22" fill="#17324d" text-anchor="start">2016乌克兰</text><rect x="520.0" y="385" width="460.0" height="95" fill="#ffffff" stroke="#ccd9e2"/><text x="532.0" y="415" font-size="22" fill="#17324d" text-anchor="start">工业协议自动化</text><rect x="980.0" y="385" width="460.0" height="95" fill="#ffffff" stroke="#ccd9e2"/><text x="992.0" y="415" font-size="22" fill="#17324d" text-anchor="start">样本研究 / 后续回顾</text><rect x="60" y="480" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="72" y="510" font-size="22" fill="#17324d" text-anchor="start">2021 Colonial</text><rect x="520.0" y="480" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="532.0" y="510" font-size="22" fill="#17324d" text-anchor="start">IT勒索后主动停运</text><rect x="980.0" y="480" width="460.0" height="95" fill="#eef4f7" stroke="#ccd9e2"/><text x="992.0" y="510" font-size="22" fill="#17324d" text-anchor="start">具名证词 / 官方报告</text><text x="60" y="850" font-size="19" fill="#657a8d" text-anchor="start">来源：R02 / R04 / R07  ｜本组重绘示意；完整书目与证据边界见逐页材料。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><title>P11 网络事件怎样变成能源运行中断？</title><desc>两条平行路径。上轨标明攻击者非授权操作，下轨标明运营方处置决定；不把两轨串成先后过程。</desc>
+<defs><marker id="blue" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#246ca6"/></marker><marker id="orange" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b95822"/></marker><marker id="green" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#16826c"/></marker><marker id="gray" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#637383"/></marker><marker id="red" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b43a42"/></marker></defs>
+<rect width="1600" height="900" fill="#fafcfd"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif} .body{font-size:26px}</style>
+<text x="64" y="55.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">能源 × 网络安全  /  刘酝潇  /  P11</text>
+<text x="64" y="115.0" font-size="38" fill="#173044" font-weight="700" text-anchor="start">网络事件怎样变成能源运行中断？</text>
+<text x="64" y="160.0" font-size="24" fill="#637383" font-weight="400" text-anchor="start">比较改变运行状态的环节，避免从“停电／停运”直接反推攻击方式</text>
+<line x1="64" y1="812" x2="1536" y2="812" stroke="#637383" stroke-width="1"/>
+<text x="64" y="848.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">来源：R02 / R07  ·  完整定位见逐页文案与本部分书目</text>
+<text x="64" y="879.0" font-size="18" fill="#637383" font-weight="400" text-anchor="start">2026-11-10  ·  本组重绘；图中比例不代表时间、概率或电气容量</text>
+<text x="64" y="230.0" font-size="28" fill="#246ca6" font-weight="700" text-anchor="start">2015 乌克兰｜直接控制影响</text>
+<rect x="64" y="265" width="332" height="142" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="86" y="308.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">取得控制能力</text>
+<text x="86" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">来自入侵与远程访问</text>
+<line x1="396" y1="335" x2="439" y2="335" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<rect x="444" y="265" width="332" height="142" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="466" y="308.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">非授权控制操作</text>
+<text x="466" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">攻击者使用已有接口</text>
+<line x1="776" y1="335" x2="819" y2="335" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<rect x="824" y="265" width="332" height="142" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="846" y="308.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">断路器动作</text>
+<text x="846" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">现场电气连接改变</text>
+<line x1="1156" y1="335" x2="1199" y2="335" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<rect x="1204" y="265" width="332" height="142" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="1226" y="308.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">局部配电中断</text>
+<text x="1226" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">影响范围受工况约束</text>
+<text x="64" y="500.0" font-size="28" fill="#b95822" font-weight="700" text-anchor="start">2021 Colonial｜间接运行影响</text>
+<rect x="64" y="535" width="332" height="142" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="86" y="578.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">IT业务系统勒索</text>
+<text x="86" y="621.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">攻击最先确认在IT侧</text>
+<line x1="396" y1="605" x2="439" y2="605" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="444" y="535" width="332" height="142" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="466" y="578.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">安全范围不确定</text>
+<text x="466" y="621.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">需要隔离、遏制攻击</text>
+<line x1="776" y1="605" x2="819" y2="605" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="824" y="535" width="332" height="142" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="846" y="578.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">运营方停运决定</text>
+<text x="846" y="621.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">由企业停止运行</text>
+<line x1="1156" y1="605" x2="1199" y2="605" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="1204" y="535" width="332" height="142" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="1226" y="578.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">燃料运输受限</text>
+<text x="1226" y="621.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">供应恢复涉及物流</text>
+<text x="64" y="761.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">两条路径为所选案例的主要机制；并非所有能源安全事件的穷尽分类。</text>
+</svg>

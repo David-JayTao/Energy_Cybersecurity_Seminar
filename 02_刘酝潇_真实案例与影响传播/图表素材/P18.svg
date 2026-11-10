@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#447394"/></marker></defs><rect width="1600" height="900" fill="white"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif"><text x="60" y="65" font-size="34" fill="#17324d" text-anchor="start">P18  Colonial Pipeline：IT勒索为何导致管道停运？</text><text x="60" y="115" font-size="25" fill="#527189" text-anchor="start">业务入侵可以经安全决策传导到供能。</text><rect x="65.0" y="300" width="241.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="85.0" y="338" font-size="25" fill="#17324d" text-anchor="start">IT业务系统勒索</text><text x="80.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">01</text><path d="M306.0,380 L336.0,380" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="329.0" y="368.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="341.0" y="300" width="241.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="361.0" y="338" font-size="25" fill="#17324d" text-anchor="start">威胁范围不确定</text><text x="356.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">02</text><path d="M582.0,380 L612.0,380" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="605.0" y="368.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="617.0" y="300" width="241.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="637.0" y="338" font-size="25" fill="#17324d" text-anchor="start">运营方隔离与停运</text><text x="632.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">03</text><path d="M858.0,380 L888.0,380" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="881.0" y="368.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="893.0" y="300" width="241.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="913.0" y="338" font-size="25" fill="#17324d" text-anchor="start">燃料运输受限</text><text x="908.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">04</text><path d="M1134.0,380 L1164.0,380" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="1157.0" y="368.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="1169.0" y="300" width="241.0" height="160" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1189.0" y="338" font-size="25" fill="#17324d" text-anchor="start">分阶段恢复</text><text x="1184.0" y="270" font-size="23" fill="#d17d25" text-anchor="start">05</text><text x="70" y="580" font-size="25" fill="#17324d" text-anchor="start">系统规模约5500英里、250万桶/日，不等于损失量</text><text x="70" y="710" font-size="24" fill="#17324d" text-anchor="start">未证实攻击者直接操纵OT设备；重启不等于下游供应立即正常。</text><text x="60" y="850" font-size="19" fill="#657a8d" text-anchor="start">来源：R07 / R08 / R09 / R10  ｜本组重绘示意；完整书目与证据边界见逐页材料。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><title>P18 Colonial：IT勒索通过停运决定影响燃料运输</title><desc>决策路径与日期轨并列：IT事件→范围不确定→运营方停运→运输受限；5月12日晚为开始重启，不能画成零售供应全面恢复。</desc>
+<defs><marker id="blue" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#246ca6"/></marker><marker id="orange" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b95822"/></marker><marker id="green" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#16826c"/></marker><marker id="gray" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#637383"/></marker><marker id="red" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b43a42"/></marker></defs>
+<rect width="1600" height="900" fill="#fafcfd"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif} .body{font-size:26px}</style>
+<text x="64" y="55.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">能源 × 网络安全  /  刘酝潇  /  P18</text>
+<text x="64" y="115.0" font-size="38" fill="#173044" font-weight="700" text-anchor="start">Colonial：IT勒索通过停运决定影响燃料运输</text>
+<text x="64" y="160.0" font-size="24" fill="#637383" font-weight="400" text-anchor="start">具名证词中的处置依据｜不画攻击者到泵阀的控制箭头</text>
+<line x1="64" y1="812" x2="1536" y2="812" stroke="#637383" stroke-width="1"/>
+<text x="64" y="848.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">来源：R07 / R08 / R10  ·  完整定位见逐页文案与本部分书目</text>
+<text x="64" y="879.0" font-size="18" fill="#637383" font-weight="400" text-anchor="start">2026-11-10  ·  本组重绘；图中比例不代表时间、概率或电气容量</text>
+<rect x="64" y="265" width="332" height="155" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="86" y="308.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">IT业务系统勒索</text>
+<text x="86" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">5月7日发现</text>
+<line x1="396" y1="342" x2="441" y2="342" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="444" y="265" width="332" height="155" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="466" y="308.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">起点与范围不确定</text>
+<text x="466" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">担心威胁扩展至OT</text>
+<line x1="776" y1="342" x2="821" y2="342" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="824" y="265" width="332" height="155" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="846" y="308.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">运营方隔离、停运</text>
+<text x="846" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">安全处置决定</text>
+<line x1="1156" y1="342" x2="1201" y2="342" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<rect x="1204" y="265" width="332" height="155" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="1226" y="308.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">燃料运输受限</text>
+<text x="1226" y="351.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">实际能源业务影响</text>
+<text x="64" y="505.0" font-size="28" fill="#173044" font-weight="700" text-anchor="start">运行重启与终端供应是不同进程</text>
+<rect x="64" y="555" width="468" height="145" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="86" y="598.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">5月7日</text>
+<text x="86" y="641.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">停运并开始处置</text>
+<rect x="566" y="555" width="468" height="145" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="588" y="598.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">5月12日晚</text>
+<text x="588" y="641.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">开始恢复管道服务</text>
+<rect x="1068" y="555" width="468" height="145" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="1090" y="598.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">此后逐步恢复供应</text>
+<text x="1090" y="641.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">依赖运输、库存和替代来源</text>
+<line x1="532" y1="626" x2="564" y2="626" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<line x1="1034" y1="626" x2="1066" y2="626" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<text x="64" y="761.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">公开证据不支持攻击者直接操纵泵阀；这也不等于证明OT完全不受运行影响。</text>
+</svg>

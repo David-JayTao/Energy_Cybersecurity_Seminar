@@ -1,0 +1,357 @@
+{
+  "base": "7124ac0bce4ffbc0b4cc3f2a25eb4e56442cd41c",
+  "excludes": [
+    "交付文件清单.json",
+    "验收结果.json"
+  ],
+  "files": [
+    {
+      "file": "build_part2.py",
+      "status": "new",
+      "bytes": 29081,
+      "sha256": "f7181d35b6afcad44d313d0431b1fcb5d84217c351a716926aa4e0cacb965bf8"
+    },
+    {
+      "file": "draw_part2.py",
+      "status": "new",
+      "bytes": 19691,
+      "sha256": "ab20bf3322c94d3d436dcb7a7003039a189f49362212854249eaa278f099d264"
+    },
+    {
+      "file": "page_data.json",
+      "status": "new",
+      "bytes": 23548,
+      "sha256": "5d8e482d9893768916b1ecbf7e602627b9fa5fe7b8aa80a07e139f9f897e8b96"
+    },
+    {
+      "file": "PPT逐页完整内容.md",
+      "status": "updated_or_retained",
+      "bytes": 46805,
+      "sha256": "6f26ede349064d55a978ab540911c0384f5d52cbf0dde92ada49727af852b088"
+    },
+    {
+      "file": "README.md",
+      "status": "new",
+      "bytes": 2572,
+      "sha256": "301a1e09f6a73cbb9a97a14bd26e6be906a29e4d2a0b22ccbf2a4139936dad8c"
+    },
+    {
+      "file": "render_part2.py",
+      "status": "new",
+      "bytes": 4159,
+      "sha256": "c3c08caee4512196a74be7d6fe16f7d1afe16c9eb160525ebc5010a3a416301b"
+    },
+    {
+      "file": "validate_part2.py",
+      "status": "new",
+      "bytes": 6790,
+      "sha256": "05d4615e5c20ae8ef2e0efbe9e1a36095290ae482656ebeb78cb4000ef8736fd"
+    },
+    {
+      "file": "事实核查与验收.md",
+      "status": "new",
+      "bytes": 7671,
+      "sha256": "c4a778680d9c8357202c2b63b2d8d5dd3f2f5663c45563725cb85e93e6ae7e5c"
+    },
+    {
+      "file": "典型案例研究.md",
+      "status": "updated_or_retained",
+      "bytes": 6003,
+      "sha256": "fe34afbc8cb9ac175f7da16cd275cd8f5532ea65fa88c747267cb0d6656a533d"
+    },
+    {
+      "file": "制作交接与排练卡.md",
+      "status": "updated_or_retained",
+      "bytes": 2691,
+      "sha256": "46352ba778d88c465ffac6c17dd625c447083cb08f9a6ef816f8a004ae137522"
+    },
+    {
+      "file": "原文核验指纹.json",
+      "status": "new",
+      "bytes": 1222,
+      "sha256": "876f2857ee1371c509044ecdc0ed407b085b07b582b5daa648a4dbf198a9c15d"
+    },
+    {
+      "file": "各页讲解时间表.md",
+      "status": "updated_or_retained",
+      "bytes": 1734,
+      "sha256": "6f01432de393c6f1f2b9df7bb0553220f29ef58f264db7bf8cb9285dc1f521a5"
+    },
+    {
+      "file": "图表素材/P11.mmd",
+      "status": "updated_or_retained",
+      "bytes": 226,
+      "sha256": "42e59fb0ea55846f6dc277a5201db1672b1354ff315b532f29e040772498e5ac"
+    },
+    {
+      "file": "图表素材/P11.png",
+      "status": "updated_or_retained",
+      "bytes": 147834,
+      "sha256": "be87101936ac04967bee9323562b153322ccfbd5f2e9be325b7e321c089a3206"
+    },
+    {
+      "file": "图表素材/P11.svg",
+      "status": "updated_or_retained",
+      "bytes": 6108,
+      "sha256": "03b4baadada0a855120bb4d54b4be69517a6cd5f682c8c97c90f516930ff76e8"
+    },
+    {
+      "file": "图表素材/P11_表格.csv",
+      "status": "updated_or_retained",
+      "bytes": 192,
+      "sha256": "ea7ab5b60e350d9a76e69af55c3cb853472eb81c75fbee0e80d176d43575349f"
+    },
+    {
+      "file": "图表素材/P12.mmd",
+      "status": "updated_or_retained",
+      "bytes": 235,
+      "sha256": "b9283fa393824db58dd0fd56d49910cf0474f003cdc0e6f5ecc977da0db57d30"
+    },
+    {
+      "file": "图表素材/P12.png",
+      "status": "updated_or_retained",
+      "bytes": 124568,
+      "sha256": "4321abe36de28baff705ef0d97231a837c8eeb690ea2acbdbffa9e9ce4691825"
+    },
+    {
+      "file": "图表素材/P12.svg",
+      "status": "updated_or_retained",
+      "bytes": 4261,
+      "sha256": "0a6a42d0d109b4861df607216187cd9e28648cc2f63375e31242e7d1009c3610"
+    },
+    {
+      "file": "图表素材/P12_表格.csv",
+      "status": "updated_or_retained",
+      "bytes": 223,
+      "sha256": "6ad09be7d9e4b11bc5045dcece4f02bba50287d92e88ee5dec2937f21949b7d2"
+    },
+    {
+      "file": "图表素材/P13.mmd",
+      "status": "updated_or_retained",
+      "bytes": 582,
+      "sha256": "3906eccee25171873af9c963509dc75a1ac828f2877aa4b7cda8607927e93d86"
+    },
+    {
+      "file": "图表素材/P13.png",
+      "status": "updated_or_retained",
+      "bytes": 172085,
+      "sha256": "e8cd6f0217aa03746b752c540f7870404a382a18d724002e1606ead8929bcb3f"
+    },
+    {
+      "file": "图表素材/P13.svg",
+      "status": "updated_or_retained",
+      "bytes": 7297,
+      "sha256": "c0c7b94f1ced2cec3784f8191b073cc1d7976aaf64e06f061de6870da7f588e4"
+    },
+    {
+      "file": "图表素材/P14.mmd",
+      "status": "updated_or_retained",
+      "bytes": 412,
+      "sha256": "d3fa64e1239d093ebf44a40a13190dce22b0fb2e2103f0bb07f8ee050081074e"
+    },
+    {
+      "file": "图表素材/P14.png",
+      "status": "updated_or_retained",
+      "bytes": 173086,
+      "sha256": "6afd52117c3fbeb343d904fc72521e33120f812c02c915a1676769b0d3b6d9e4"
+    },
+    {
+      "file": "图表素材/P14.svg",
+      "status": "updated_or_retained",
+      "bytes": 5734,
+      "sha256": "61a10cf99649743a0f32a1f7bbbaa903c7d7d1a2afea410eb0b22ae12eb396b1"
+    },
+    {
+      "file": "图表素材/P15.mmd",
+      "status": "updated_or_retained",
+      "bytes": 374,
+      "sha256": "64422ea7bf29d0d4cde7f58568e1a55a6d1176ccd875ca9fd7277a2f428f2509"
+    },
+    {
+      "file": "图表素材/P15.png",
+      "status": "updated_or_retained",
+      "bytes": 149868,
+      "sha256": "50fd38c073e92e503d2094fbfd4ff50f507e51afa137fb8c7b78938a466b71e0"
+    },
+    {
+      "file": "图表素材/P15.svg",
+      "status": "updated_or_retained",
+      "bytes": 6124,
+      "sha256": "e602ac01758936610efd4e1979f022629ba984e1a4c59d30bcab803b196fc30e"
+    },
+    {
+      "file": "图表素材/P16.mmd",
+      "status": "updated_or_retained",
+      "bytes": 407,
+      "sha256": "19d36e3b60cc400090633ce7ff5ea7535ffeec591dfdb58904cc1a7bc191703f"
+    },
+    {
+      "file": "图表素材/P16.png",
+      "status": "updated_or_retained",
+      "bytes": 184985,
+      "sha256": "f22d7939b413b96a30423ba4dce9e300dfaaf6a579b48f1a2a3b218fef65e636"
+    },
+    {
+      "file": "图表素材/P16.svg",
+      "status": "updated_or_retained",
+      "bytes": 5457,
+      "sha256": "a8d5fd81c4ae317f9bac4cdb845cd28b892aa20c87b3a7d8c25a0452653e70d6"
+    },
+    {
+      "file": "图表素材/P17.mmd",
+      "status": "updated_or_retained",
+      "bytes": 264,
+      "sha256": "b7b0f2f835a39273513280469d0ac5613c2d20c790cb986dd892f3c67e1a4e86"
+    },
+    {
+      "file": "图表素材/P17.png",
+      "status": "updated_or_retained",
+      "bytes": 170358,
+      "sha256": "c7dd6b6fc499f3de49f4b2cb5f48ef65e1f1410a7c93e93d943a67ba4b57f336"
+    },
+    {
+      "file": "图表素材/P17.svg",
+      "status": "updated_or_retained",
+      "bytes": 6378,
+      "sha256": "6a2659592702cc72497e9673be07426cd360ccc5adbb9e598c7ff5f598137355"
+    },
+    {
+      "file": "图表素材/P18.mmd",
+      "status": "updated_or_retained",
+      "bytes": 334,
+      "sha256": "47859d045bf180ad32accc04de8487ca07142e8b6dc4f2d395d13cbd9ab0dddf"
+    },
+    {
+      "file": "图表素材/P18.png",
+      "status": "updated_or_retained",
+      "bytes": 134673,
+      "sha256": "10b2ac0f53876175abf600e11f3fca1f3c073d50b6fabe1bdc9181560dae153d"
+    },
+    {
+      "file": "图表素材/P18.svg",
+      "status": "updated_or_retained",
+      "bytes": 5557,
+      "sha256": "7965d7f7ca936d7fcd458a52dcd3411fce5fef7934b2e63a6e78c9049358bf06"
+    },
+    {
+      "file": "图表素材/P19.mmd",
+      "status": "updated_or_retained",
+      "bytes": 288,
+      "sha256": "214416f7bea1a68202676827eedf6e2c402f174ff34827584ede8a52abeafcee"
+    },
+    {
+      "file": "图表素材/P19.png",
+      "status": "updated_or_retained",
+      "bytes": 167398,
+      "sha256": "41ea6465694f4ea03a1fd821f92c39343ef6be29bface70b597d6e645c29ca56"
+    },
+    {
+      "file": "图表素材/P19.svg",
+      "status": "updated_or_retained",
+      "bytes": 5367,
+      "sha256": "3849acc2d75342c630c88e6f1e03194f1624a2bf70b63d4520a2e45aae7ade2e"
+    },
+    {
+      "file": "图表素材/P19_表格.csv",
+      "status": "updated_or_retained",
+      "bytes": 334,
+      "sha256": "3ca5fe0293520b108051adeeaa65082f410b7c0f07f8602fdd7efe875aee4102"
+    },
+    {
+      "file": "图表素材/P20.mmd",
+      "status": "updated_or_retained",
+      "bytes": 332,
+      "sha256": "526355001e5ce577d6a2e220385bd7932202a3089eddc6613155716496b22bb5"
+    },
+    {
+      "file": "图表素材/P20.png",
+      "status": "updated_or_retained",
+      "bytes": 148291,
+      "sha256": "c59ddff109589d405bf31f240805c8b2015778cef0b957f0250120b8c114e220"
+    },
+    {
+      "file": "图表素材/P20.svg",
+      "status": "updated_or_retained",
+      "bytes": 4375,
+      "sha256": "8073d295b27e7572604fd5b66cfcb54afcf9236c6e25f1d0e3c5b485c9f44dac"
+    },
+    {
+      "file": "图表素材/P20_表格.csv",
+      "status": "updated_or_retained",
+      "bytes": 246,
+      "sha256": "19a9d6060638c78c7ae6f32853b630d784908d310cc4768120a72b55978e1cb8"
+    },
+    {
+      "file": "图表素材/使用说明.md",
+      "status": "updated_or_retained",
+      "bytes": 1464,
+      "sha256": "15ba681fd33affadd8e748fb2abae764c240442d331681b98d24a1af1ab86ed7"
+    },
+    {
+      "file": "图表联系表_1.jpg",
+      "status": "new",
+      "bytes": 370072,
+      "sha256": "d6b538809ad35cba112ea122d50b4b5c626f8bcba954a462ae478cbb6f27ee6f"
+    },
+    {
+      "file": "图表联系表_2.jpg",
+      "status": "new",
+      "bytes": 384596,
+      "sha256": "97e04820324f4bc7e9609f9db8fffdb0033e306fcf8e725e56f40b89352c04f0"
+    },
+    {
+      "file": "图表验证.json",
+      "status": "new",
+      "bytes": 629,
+      "sha256": "48c351c8a868ff96a429e1f78cb7a8111df03f40e1ca04e8e07e626df24aa8e5"
+    },
+    {
+      "file": "备用材料_2016乌克兰.md",
+      "status": "new",
+      "bytes": 1290,
+      "sha256": "5aed38bf9c6f3bfe1de1063a5cc44aaa5c5ef4d91c443f4bff1524d1ee3df822"
+    },
+    {
+      "file": "完整演讲逐字稿.md",
+      "status": "updated_or_retained",
+      "bytes": 12119,
+      "sha256": "c776d660ecfaa2a36fc7df5e8cf1c6c903add96b0370dd3302e3c694f1355e16"
+    },
+    {
+      "file": "恢复核验记录.json",
+      "status": "new",
+      "bytes": 559,
+      "sha256": "cafa66d95fd8da5b4fd5c95c78760647a7bd220395b67b18026c85f9af7c1ad2"
+    },
+    {
+      "file": "本部分参考文献.md",
+      "status": "updated_or_retained",
+      "bytes": 7128,
+      "sha256": "319432efac432c019fdab0778d7ab1073e51abd7a57e1eba12e70390eb7ad73e"
+    },
+    {
+      "file": "渲染记录.json",
+      "status": "new",
+      "bytes": 2773,
+      "sha256": "025f069c22f1f3e2dffbfc2627806166830ca6e6c140b1de30230e67158d49f8"
+    },
+    {
+      "file": "第二部分_知识讲透与答辩准备.md",
+      "status": "new",
+      "bytes": 17500,
+      "sha256": "d8badfaf6d1a9ff848e89f543e6a9a6acd6d5a9512bcce185b90c1cb88b4b6ad"
+    },
+    {
+      "file": "第二部分_老师反馈与修订说明.md",
+      "status": "new",
+      "bytes": 3858,
+      "sha256": "693c016fabcefae3ca1131f79b66b919916f16b9867e5b6a71e9cb8546bb16f6"
+    },
+    {
+      "file": "统计结果.json",
+      "status": "new",
+      "bytes": 81,
+      "sha256": "930b8389f97d932ee4bab5cde6fcf19fdf0f269985b6cd0e5b639c4516854d3f"
+    }
+  ]
+}

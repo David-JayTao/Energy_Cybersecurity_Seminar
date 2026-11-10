@@ -1,1 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#447394"/></marker></defs><rect width="1600" height="900" fill="white"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif"><text x="60" y="65" font-size="34" fill="#17324d" text-anchor="start">P13  2015时间线：长期准备，集中操作，分阶段恢复</text><text x="60" y="115" font-size="25" fill="#527189" text-anchor="start">准备、执行与调查应在时间线上分层。</text><text x="70" y="205" font-size="26" fill="#17324d" text-anchor="start">事件发生</text><rect x="80" y="250" width="420" height="130" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="100" y="288" font-size="25" fill="#17324d" text-anchor="start">攻击前数月：准备与访问</text><path d="M500,315 L570,315" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" stroke-dasharray="9 7"/><text x="543.0" y="303.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="580" y="250" width="420" height="130" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="600" y="288" font-size="25" fill="#17324d" text-anchor="start">2015-12-23：控制操作</text><path d="M1000,315 L1070,315" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="1043.0" y="303.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="1080" y="250" width="420" height="130" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1100" y="288" font-size="25" fill="#17324d" text-anchor="start">其后数小时：恢复供电</text><text x="70" y="505" font-size="26" fill="#17324d" text-anchor="start">公开调查与分析</text><rect x="580" y="550" width="420" height="120" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="600" y="588" font-size="25" fill="#17324d" text-anchor="start">2016年2月：DHS公开告警</text><rect x="1080" y="550" width="420" height="120" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1100" y="588" font-size="25" fill="#17324d" text-anchor="start">2016-03-18：联合研究报告</text><path d="M1000,610 L1070,610" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="1043.0" y="598.0" font-size="19" fill="#17324d" text-anchor="start"></text><text x="80" y="750" font-size="24" fill="#17324d" text-anchor="start">虚线：研究重建，首次入侵精确日期不明。供电恢复后自动化能力仍受限。</text><text x="60" y="850" font-size="19" fill="#657a8d" text-anchor="start">来源：R02 / R03  ｜本组重绘示意；完整书目与证据边界见逐页材料。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><title>P13 控制中心通过现场终端操作断路器</title><desc>三域系统图：业务区、控制中心、现场。橙色单向控制、蓝色反向反馈、绿色无箭头电气连接；边界虚线仅表示区域边界。</desc>
+<defs><marker id="blue" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#246ca6"/></marker><marker id="orange" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b95822"/></marker><marker id="green" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#16826c"/></marker><marker id="gray" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#637383"/></marker><marker id="red" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b43a42"/></marker></defs>
+<rect width="1600" height="900" fill="#fafcfd"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif} .body{font-size:26px}</style>
+<text x="64" y="55.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">能源 × 网络安全  /  刘酝潇  /  P13</text>
+<text x="64" y="115.0" font-size="38" fill="#173044" font-weight="700" text-anchor="start">控制中心通过现场终端操作断路器</text>
+<text x="64" y="160.0" font-size="24" fill="#637383" font-weight="400" text-anchor="start">功能关系教学示意｜不是2015年某家企业的现场拓扑，也不是国内工程合规方案</text>
+<line x1="64" y1="812" x2="1536" y2="812" stroke="#637383" stroke-width="1"/>
+<text x="64" y="848.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">来源：R01 / R02  ·  完整定位见逐页文案与本部分书目</text>
+<text x="64" y="879.0" font-size="18" fill="#637383" font-weight="400" text-anchor="start">2026-11-10  ·  本组重绘；图中比例不代表时间、概率或电气容量</text>
+<rect x="64" y="215" width="290" height="480" rx="14" fill="#f2f5f7" stroke="#d3dfe6" stroke-width="2"/>
+<text x="86" y="255.0" font-size="27" fill="#173044" font-weight="700" text-anchor="start">业务网络（IT）</text>
+<rect x="86" y="300" width="246" height="155" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="108" y="343.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">办公与业务系统</text>
+<text x="108" y="386.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">邮件、文档、管理</text>
+<text x="108" y="420.8" font-size="24" fill="#173044" font-weight="400" text-anchor="start">不直接等于设备控制</text>
+<rect x="405" y="215" width="520" height="480" rx="14" fill="#edf5fc" stroke="#d3dfe6" stroke-width="2"/>
+<text x="427" y="255.0" font-size="27" fill="#173044" font-weight="700" text-anchor="start">控制中心（OT）</text>
+<rect x="430" y="300" width="470" height="110" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="452" y="343.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">HMI：人机界面</text>
+<text x="452" y="386.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">运行人员查看状态、提出操作</text>
+<rect x="430" y="490" width="470" height="140" rx="14" fill="white" stroke="#246ca6" stroke-width="2"/>
+<text x="452" y="533.0" font-size="27" fill="#246ca6" font-weight="700" text-anchor="start">SCADA控制与采集功能</text>
+<text x="452" y="576.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">组织控制请求与现场数据</text>
+<text x="452" y="610.8" font-size="24" fill="#173044" font-weight="400" text-anchor="start">HMI是其交互部分</text>
+<line x1="530" y1="410" x2="530" y2="488" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<text x="548" y="452.0" font-size="22" fill="#b95822" font-weight="400" text-anchor="start">操作</text>
+<line x1="800" y1="490" x2="800" y2="412" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<text x="816" y="452.0" font-size="22" fill="#246ca6" font-weight="400" text-anchor="start">显示</text>
+<line x1="380" y1="205" x2="380" y2="710" stroke="#637383" stroke-width="2" stroke-dasharray="10 7"/>
+<text x="70" y="654.0" font-size="21" fill="#637383" font-weight="400" text-anchor="start">受控接入：身份、对象、权限</text>
+<line x1="332" y1="375" x2="428" y2="375" stroke="#637383" stroke-width="3" stroke-dasharray="10 7" marker-end="url(#gray)"/>
+<text x="84" y="505.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">边界不是随意互通</text>
+<rect x="1000" y="215" width="536" height="480" rx="14" fill="#edf7f3" stroke="#d3dfe6" stroke-width="2"/>
+<text x="1022" y="255.0" font-size="27" fill="#173044" font-weight="700" text-anchor="start">站内与现场设备</text>
+<rect x="1050" y="310" width="430" height="115" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1072" y="353.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">RTU等现场终端</text>
+<text x="1072" y="396.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">连接设备信号与执行回路</text>
+<rect x="1130" y="515" width="270" height="100" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1152" y="558.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">断路器</text>
+<text x="1152" y="601.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">改变电路通断</text>
+<path d="M 900 525 H 966 V 340 H 1048" fill="none" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<text x="915" y="310.0" font-size="20" fill="#b95822" font-weight="400" text-anchor="start">控制 →</text>
+<path d="M 1050 395 H 982 V 590 H 902" fill="none" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<text x="925" y="632.0" font-size="20" fill="#246ca6" font-weight="400" text-anchor="start">← 反馈</text>
+<line x1="1175" y1="425" x2="1175" y2="513" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<text x="1030" y="475.0" font-size="22" fill="#b95822" font-weight="400" text-anchor="start">执行</text>
+<line x1="1350" y1="515" x2="1350" y2="427" stroke="#246ca6" stroke-width="3" marker-end="url(#blue)"/>
+<text x="1380" y="475.0" font-size="22" fill="#246ca6" font-weight="400" text-anchor="start">状态</text>
+<line x1="1040" y1="560" x2="1130" y2="560" stroke="#16826c" stroke-width="7"/>
+<line x1="1400" y1="560" x2="1510" y2="560" stroke="#16826c" stroke-width="7"/>
+<text x="1022" y="655.0" font-size="23" fill="#16826c" font-weight="400" text-anchor="start">电源侧 ━ 电气线路 ━ 下游负荷</text>
+<text x="64" y="761.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">橙色箭头：控制／操作　蓝色箭头：状态／量测　绿色粗线：电气连接　灰色虚线：边界／受控接入</text>
+</svg>

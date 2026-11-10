@@ -1,0 +1,38 @@
+[
+  {
+    "file": "../sources/NIST_SP800_82r3.pdf",
+    "sha256": "608f554514d381853e24e0b33123b7080fbd757826f460032690aade63394616"
+  },
+  {
+    "file": "../sources/SANS_Ukraine2015.pdf",
+    "sha256": "945b431a136dfb2209942f28de02f277af7b0c9b6e8de4c5e4e23d3c88119ca5"
+  },
+  {
+    "file": "../sources/R03_source.pdf",
+    "sha256": "9c3a8fbc28d2b7869677347d49ff5b61b7922321d72e19bffaf210863cf57d05"
+  },
+  {
+    "file": "../sources/CRS_Ukraine.pdf",
+    "sha256": "2015cef8c4f18fd3d2b5944def1e415bd30c08be01b2d17cc17e333ebc3a0266"
+  },
+  {
+    "file": "../sources/R05_page.txt",
+    "sha256": "1ada4b9dcfb80c3f8875cd84bc32c3f683e4af5f58d879b203c651f026fe02f3"
+  },
+  {
+    "file": "../sources/R06_page.txt",
+    "sha256": "5395428e2f098e4be8177f780c3e812db56b0de0ea5f445cfec8b01561d91852"
+  },
+  {
+    "file": "../sources/R07_page.txt",
+    "sha256": "bba9677ddf69152903b0e513a392a5d38c9e93474c9f928124774c1bac980e9b"
+  },
+  {
+    "file": "../sources/R08_page.txt",
+    "sha256": "7a1acd2e547afee281611540e4f11fb4a1725c4175bc15714cc25c66b982d581"
+  },
+  {
+    "file": "../sources/R10_page.txt",
+    "sha256": "4bca9289b77b1cd1c55da52d8d2a52364f55d114cba3a8ba685a58e54fc272f8"
+  }
+]

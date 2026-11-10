@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#447394"/></marker></defs><rect width="1600" height="900" fill="white"/><g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif"><text x="60" y="65" font-size="34" fill="#17324d" text-anchor="start">P15  不只是停电：攻击还压缩了恢复能力</text><text x="60" y="115" font-size="25" fill="#527189" text-anchor="start">恢复路径也需要被保护。</text><rect x="75" y="220" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="95" y="258" font-size="25" fill="#17324d" text-anchor="start">控制操作</text><path d="M495,275 L570,275" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="540.5" y="263.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="580" y="220" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="600" y="258" font-size="25" fill="#17324d" text-anchor="start">断路器打开</text><path d="M1000,275 L1075,275" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="1045.5" y="263.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="1085" y="220" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1105" y="258" font-size="25" fill="#17324d" text-anchor="start">供电中断</text><rect x="75" y="440" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="95" y="478" font-size="25" fill="#17324d" text-anchor="start">主机 / 通信破坏</text><path d="M495,495 L570,495" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="540.5" y="483.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="580" y="440" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="600" y="478" font-size="25" fill="#17324d" text-anchor="start">远程恢复受阻</text><path d="M1000,495 L1075,495" fill="none" stroke="#447394" stroke-width="3" marker-end="url(#a)" /><text x="1045.5" y="483.0" font-size="19" fill="#17324d" text-anchor="start"></text><rect x="1085" y="440" width="420" height="110" rx="10" fill="#edf4f9" stroke="#9ab2c8"/><text x="1105" y="478" font-size="25" fill="#17324d" text-anchor="start">现场与人工恢复</text><text x="80" y="735" font-size="24" fill="#17324d" text-anchor="start">电话干扰影响报告与响应；不同企业细节不能合并成单站完整取证链。</text><text x="60" y="850" font-size="19" fill="#657a8d" text-anchor="start">来源：R02 / R03  ｜本组重绘示意；完整书目与证据边界见逐页材料。</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900"><title>P15 断路器分闸，何时会让下游用户失电？</title><desc>上下对照同一简化径向馈线：合闸连续、分闸出现真实间隙；备用路径以灰色虚线表示未投入。控制箭头不得画成电能流。</desc>
+<defs><marker id="blue" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#246ca6"/></marker><marker id="orange" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b95822"/></marker><marker id="green" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#16826c"/></marker><marker id="gray" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#637383"/></marker><marker id="red" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8Z" fill="#b43a42"/></marker></defs>
+<rect width="1600" height="900" fill="#fafcfd"/>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif} .body{font-size:26px}</style>
+<text x="64" y="55.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">能源 × 网络安全  /  刘酝潇  /  P15</text>
+<text x="64" y="115.0" font-size="38" fill="#173044" font-weight="700" text-anchor="start">断路器分闸，何时会让下游用户失电？</text>
+<text x="64" y="160.0" font-size="24" fill="#637383" font-weight="400" text-anchor="start">简化径向供电教学例子｜前提：下游负荷没有其他已投入的有效电源</text>
+<line x1="64" y1="812" x2="1536" y2="812" stroke="#637383" stroke-width="1"/>
+<text x="64" y="848.0" font-size="20" fill="#637383" font-weight="400" text-anchor="start">来源：R01 / R02 / P2A  ·  完整定位见逐页文案与本部分书目</text>
+<text x="64" y="879.0" font-size="18" fill="#637383" font-weight="400" text-anchor="start">2026-11-10  ·  本组重绘；图中比例不代表时间、概率或电气容量</text>
+<text x="64" y="240.0" font-size="28" fill="#16826c" font-weight="700" text-anchor="start">合闸时：该通路连续</text>
+<rect x="64" y="278" width="230" height="110" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="86" y="321.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">电源侧</text>
+<text x="86" y="364.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">上级供电</text>
+<rect x="1070" y="278" width="300" height="110" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="1092" y="321.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">下游负荷</text>
+<text x="1092" y="364.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">经该路径受电</text>
+<line x1="294" y1="330" x2="600" y2="330" stroke="#16826c" stroke-width="7"/>
+<line x1="720" y1="330" x2="1070" y2="330" stroke="#16826c" stroke-width="7"/>
+<circle cx="600" cy="330" r="7" fill="white" stroke="#16826c" stroke-width="3"/>
+<circle cx="720" cy="330" r="7" fill="white" stroke="#16826c" stroke-width="3"/>
+<line x1="600" y1="330" x2="720" y2="330" stroke="#16826c" stroke-width="6"/>
+<text x="575" y="395.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">断路器</text>
+<text x="790" y="306.0" font-size="22" fill="#16826c" font-weight="400" text-anchor="start">电气线路</text>
+<text x="64" y="500.0" font-size="28" fill="#b95822" font-weight="700" text-anchor="start">分闸后：该通路断开</text>
+<rect x="64" y="538" width="230" height="110" rx="14" fill="white" stroke="#16826c" stroke-width="2"/>
+<text x="86" y="581.0" font-size="27" fill="#16826c" font-weight="700" text-anchor="start">电源侧</text>
+<text x="86" y="624.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">上级供电</text>
+<rect x="1070" y="538" width="300" height="110" rx="14" fill="white" stroke="#b95822" stroke-width="2"/>
+<text x="1092" y="581.0" font-size="27" fill="#b95822" font-weight="700" text-anchor="start">下游负荷</text>
+<text x="1092" y="624.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">失去该电源</text>
+<line x1="294" y1="590" x2="600" y2="590" stroke="#637383" stroke-width="7"/>
+<line x1="720" y1="590" x2="1070" y2="590" stroke="#637383" stroke-width="7"/>
+<circle cx="600" cy="590" r="7" fill="white" stroke="#637383" stroke-width="3"/>
+<circle cx="720" cy="590" r="7" fill="white" stroke="#637383" stroke-width="3"/>
+<line x1="600" y1="590" x2="702" y2="546" stroke="#b95822" stroke-width="6"/>
+<text x="575" y="655.0" font-size="24" fill="#173044" font-weight="400" text-anchor="start">断路器</text>
+<text x="790" y="566.0" font-size="22" fill="#637383" font-weight="400" text-anchor="start">电气线路</text>
+<text x="480" y="205.0" font-size="24" fill="#b95822" font-weight="400" text-anchor="start">控制系统 → 现场终端 → 执行回路 → 分闸动作</text>
+<line x1="650" y1="410" x2="650" y2="495" stroke="#b95822" stroke-width="3" marker-end="url(#orange)"/>
+<text x="680" y="460.0" font-size="23" fill="#b95822" font-weight="400" text-anchor="start">状态改变</text>
+<path d="M 1370 590 H 1495 V 440" fill="none" stroke="#637383" stroke-width="3" stroke-dasharray="10 7"/>
+<text x="1285" y="410.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">备用路径未投入</text>
+<text x="64" y="746.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">能否转供取决于备用路径、容量与安全操作条件；保护和联锁不能默认识别所有非授权分闸。</text>
+<text x="64" y="783.0" font-size="23" fill="#637383" font-weight="400" text-anchor="start">绿色／灰色粗线是电气连接，不是通信流量；本图不推算2015年的停电规模。</text>
+</svg>
